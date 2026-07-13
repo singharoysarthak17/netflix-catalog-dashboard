@@ -5,9 +5,9 @@ An interactive data analytics dashboard built with Streamlit that explores Netfl
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard
 
-(Add screenshots here)
+![Dashboard](images/dashboard.png)
 
 ---
 
