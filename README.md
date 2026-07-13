@@ -5,9 +5,25 @@ An interactive data analytics dashboard built with Streamlit that explores Netfl
 
 ---
 
-## Dashboard
+## 📸 Dashboard Preview
 
-![Dashboard](images/Country wise Content Rating.png)
+### Overview
+
+![Overview](images/overview.png)
+
+### Country Rating
+
+![Country Rating](images/country-rating.png)
+
+### Growth
+
+![Growth](images/growth-trend.png)
+
+### Trends
+
+![Trends](images/movie-tv-trend.png)
+
+
 
 ---
 
