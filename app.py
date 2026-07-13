@@ -44,9 +44,45 @@ type_filter = st.sidebar.multiselect(
     default=sorted(df['type'].unique())
 )
 
+# Build option lists for the list-valued columns (genres/countries) from the
+# *unfiltered* data so the filter widgets always show the full set of choices.
+all_countries = sorted(df['countries'].dropna().explode().dropna().unique())
+all_genres = sorted(df['genres'].dropna().explode().dropna().unique())
+all_ratings = sorted(df['rating'].dropna().unique())
+
+country_filter = st.sidebar.multiselect(
+    "Country",
+    options=all_countries,
+    default=all_countries
+)
+
+rating_filter = st.sidebar.multiselect(
+    "Rating",
+    options=all_ratings,
+    default=all_ratings
+)
+
+genre_filter = st.sidebar.multiselect(
+    "Genre",
+    options=all_genres,
+    default=all_genres
+)
+
+
+def _list_overlaps_selection(cell, selected):
+    """True if a list-valued cell (genres/countries) shares at least one
+    item with the selected filter options. Handles NaN / non-list cells."""
+    if not isinstance(cell, list):
+        return False
+    return any(item in selected for item in cell)
+
+
 filtered_df = df[
     (df['year_added'].between(*year_range)) &
-    (df['type'].isin(type_filter))
+    (df['type'].isin(type_filter)) &
+    (df['rating'].isin(rating_filter)) &
+    (df['countries'].apply(lambda c: _list_overlaps_selection(c, country_filter))) &
+    (df['genres'].apply(lambda g: _list_overlaps_selection(g, genre_filter)))
 ]
 
 # Pre-compute exploded versions once, reused across tabs
@@ -150,7 +186,7 @@ with tab3:
     with col2:
         st.subheader("Rating Mix by Top 5 Countries (%)")
         top_5_countries = country_exploded['countries'].value_counts().head(5).index
-        top5_df = country_exploded[country_exploded['countries'].isin(top_5_countries)]
+        top5_df = country_exploded[country_exploded['countries'].isin(top_5_countries)].reset_index(drop=True)
         crosstab = pd.crosstab(top5_df['countries'], top5_df['rating'])
         crosstab_pct = crosstab.div(crosstab.sum(axis=1), axis=0) * 100
         fig = px.imshow(crosstab_pct, text_auto='.0f', color_continuous_scale='Blues',
