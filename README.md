@@ -1,19 +1,79 @@
-# Netflix Catalog Dashboard
+# 📺 Netflix Catalog Dashboard
 
-An interactive Streamlit dashboard analyzing Netflix's content catalog — genres, 
-countries, ratings, and trends over time.
+An interactive data analytics dashboard built with Streamlit that explores Netflix's global content library through interactive visualizations.
 
-## Features
-- Filter by year and content type
-- Genre treemap and country breakdowns
-- Movie vs TV Show trends over time
-- Director and actor frequency analysis
 
-## Tech stack
-Python, Pandas, Plotly, Streamlit
+---
 
-## Run locally
+## 📸 Dashboard Preview
+
+(Add screenshots here)
+
+---
+
+## 📊 Features
+
+- Interactive filtering by year and content type
+- Genre distribution analysis
+- Country-wise content production
+- Rating distribution
+- Movie vs TV Show trends
+- Director analysis
+- Cast frequency analysis
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- Plotly
+- Streamlit
+
+---
+
+## 📂 Dataset
+
+Netflix Movies and TV Shows dataset from Kaggle.
+
+Contains:
+
+- 8800+ titles
+- Movies & TV Shows
+- Countries
+- Genres
+- Ratings
+- Directors
+- Cast
+- Release years
+
+---
+
+## 💡 Key Insights
+
+- United States contributes the highest number of titles.
+- Movies dominate the catalog.
+- TV-MA is the most common rating.
+- Content additions accelerated after 2015.
+
+---
+
+## 📦 Installation
+
 ```bash
+git clone https://github.com/singharoysarthak17/netflix-catalog-dashboard.git
+
+cd netflix-catalog-dashboard
+
 pip install -r requirements.txt
+
 streamlit run app.py
 ```
+
+---
+
+## 👤 Author
+
+Sarthak Singha Roy
+
+B.Tech CSE | KIIT University
