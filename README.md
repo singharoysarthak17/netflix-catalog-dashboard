@@ -5,6 +5,12 @@ An interactive data analytics dashboard built with Streamlit that explores Netfl
 
 ---
 
+## 🚀 Live Demo
+
+https://netflix-catalog-dashboard-rx4sadc2kg3a4appmf6pfqd.streamlit.app
+
+---
+
 ## 📸 Dashboard Preview
 
 ### Overview
