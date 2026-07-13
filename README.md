@@ -7,7 +7,7 @@ An interactive data analytics dashboard built with Streamlit that explores Netfl
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Country wise Content Rating.png)
 
 ---
 
