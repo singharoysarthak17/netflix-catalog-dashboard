@@ -1,0 +1,879 @@
+show_id,best_movieId,source,best_title,netflix_title,best_score,genre_jaccard,release_year,listed_in,type,runner_up_score
+s1012,110350,auto,Free to Play (2014),Free to Play,100.0,1.0,2014,Documentaries,Movie,0.0
+s1014,166568,auto,Miss Sloane (2016),Miss Sloane,100.0,1.0,2016,Thrillers,Movie,0.0
+s1016,6022,auto,American Me (1992),American Me,100.0,1.0,1992,Dramas,Movie,84.6
+s1017,88069,auto,Delhi Belly (2011),Delhi Belly,100.0,0.0,2011,"Action & Adventure, Comedies, International Movies",Movie,0.0
+s1020,6776,auto,Lagaan: Once Upon a Time in India (2001),Lagaan,100.0,0.5,2001,"Dramas, International Movies, Music & Musicals",Movie,0.0
+s1023,57183,auto,Like Stars on Earth (Taare Zameen Par) (2007),Taare Zameen Par,100.0,1.0,2007,"Dramas, International Movies",Movie,0.0
+s1028,128838,auto,Crimson Peak (2015),Crimson Peak,100.0,0.25,2015,"Horror Movies, Romantic Movies, Sci-Fi & Fantasy",Movie,0.0
+s1034,104913,auto,Rush (2013),Rush,100.0,0.67,2013,"Action & Adventure, Dramas, International Movies",Movie,100.0
+s1053,96728,auto,"Master, The (2012)",The Master,100.0,1.0,2012,"Dramas, Independent Movies",Movie,83.3
+s1102,100611,auto,Escape from Planet Earth (2013),Escape from Planet Earth,100.0,0.17,2013,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Movie,88.9
+s1103,47518,auto,Accepted (2006),Accepted,100.0,,2006,Comedies,Movie,0.0
+s1114,72378,auto,2012 (2009),2012,100.0,0.33,2009,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s1115,73881,auto,3 Idiots (2009),3 Idiots,100.0,0.33,2009,"Comedies, Dramas, International Movies",Movie,85.7
+s1120,143472,auto,Into the Grizzly Maze (2015),Into the Grizzly Maze,100.0,0.5,2015,"Action & Adventure, Horror Movies",Movie,0.0
+s1121,161594,auto,Kingsglaive: Final Fantasy XV (2016),Kingsglaive: Final Fantasy XV,100.0,0.67,2016,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s1122,4447,auto,Legally Blonde (2001),Legally Blonde,100.0,0.5,2001,"Comedies, Romantic Movies",Movie,100.0
+s1125,990,auto,Maximum Risk (1996),Maximum Risk,100.0,0.67,1996,Action & Adventure,Movie,0.0
+s1127,914,auto,My Fair Lady (1964),My Fair Lady,100.0,0.25,1964,"Classic Movies, Music & Musicals",Movie,0.0
+s1136,87785,auto,Takers (2010),Takers,100.0,0.25,2010,Action & Adventure,Movie,0.0
+s1139,5995,auto,"Pianist, The (2002)",The Pianist,100.0,0.5,2002,"Dramas, Independent Movies, International Movies",Movie,0.0
+s1154,106839,auto,Mandela: Long Walk to Freedom (2013),Mandela: Long Walk to Freedom,100.0,1.0,2013,"Dramas, International Movies",Movie,100.0
+s1155,96432,auto,Lawless (2012),Lawless,100.0,0.5,2012,Dramas,Movie,0.0
+s116,71327,auto,Bright Star (2009),Bright Star,100.0,1.0,2009,"Dramas, Romantic Movies",Movie,0.0
+s1161,3783,auto,Croupier (1998),Croupier,100.0,0.33,1998,"Dramas, Independent Movies, Thrillers",Movie,0.0
+s1176,106438,auto,Philomena (2013),Philomena,100.0,0.5,2013,"Dramas, Independent Movies, International Movies",Movie,0.0
+s1198,113207,auto,Get on Up (2014),Get on Up,100.0,1.0,2014,"Dramas, Music & Musicals",Movie,75.0
+s1200,95583,auto,Savages (2012),Savages,100.0,0.67,2012,"Dramas, Thrillers",Movie,0.0
+s1204,158830,auto,The BFG (2016),The BFG,100.0,0.33,2016,"Children & Family Movies, Dramas",Movie,75.0
+s1215,185029,auto,A Quiet Place (2018),Quiet,100.0,0.25,2020,"Dramas, International Movies, Music & Musicals",Movie,80.0
+s123,6885,auto,In the Cut (2003),In the Cut,100.0,0.2,2003,Thrillers,Movie,75.0
+s1252,590,auto,Dances with Wolves (1990),Dances with Wolves,100.0,0.5,1990,"Action & Adventure, Classic Movies, Dramas",Movie,0.0
+s1255,1961,auto,Rain Man (1988),Rain Man,100.0,1.0,1988,"Classic Movies, Dramas",Movie,0.0
+s1257,49396,auto,Tenacious D in The Pick of Destiny (2006),Tenacious D in The Pick of Destiny,100.0,0.33,2006,"Comedies, Cult Movies, Music & Musicals",Movie,75.0
+s1260,158966,auto,Captain Fantastic (2016),Captain Fantastic,100.0,1.0,2016,"Comedies, Dramas, Independent Movies",Movie,78.3
+s1265,88672,auto,Our Idiot Brother (2011),Our Idiot Brother,100.0,0.0,2011,"Comedies, Dramas, Independent Movies",Movie,0.0
+s1268,114494,auto,Who Am I (Kein System Ist Sicher) (2014),Who Am I,100.0,1.0,2014,"International Movies, Thrillers",Movie,77.8
+s128,8643,auto,"Cinderella Story, A (2004)",A Cinderella Story,100.0,0.0,2004,"Children & Family Movies, Comedies",Movie,83.3
+s1284,103688,auto,"Conjuring, The (2013)",The Conjuring,100.0,1.0,2013,"Horror Movies, Thrillers",Movie,100.0
+s1292,184997,auto,"Love, Simon (2018)",Love,100.0,0.5,2020,"Dramas, Independent Movies, International Movies",Movie,0.0
+s130,37475,auto,"Unfinished Life, An (2005)",An Unfinished Life,100.0,1.0,2005,Dramas,Movie,0.0
+s1334,161131,auto,War Dogs (2016),War Dogs,100.0,0.0,2016,"Comedies, Dramas",Movie,0.0
+s134,120466,auto,Chappie (2015),Chappie,100.0,0.2,2015,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s135,349,auto,Clear and Present Danger (1994),Clear and Present Danger,100.0,0.4,1994,"Action & Adventure, Dramas",Movie,0.0
+s1354,1431,auto,Beverly Hills Ninja (1997),Beverly Hills Ninja,100.0,0.33,1997,"Action & Adventure, Comedies",Movie,81.2
+s1359,74458,auto,Shutter Island (2010),Shutter Island,100.0,0.33,2010,Thrillers,Movie,81.5
+s136,434,auto,Cliffhanger (1993),Cliffhanger,100.0,0.67,1993,Action & Adventure,Movie,0.0
+s1360,58295,auto,"Bank Job, The (2008)",The Bank Job,100.0,0.25,2008,"Dramas, International Movies, Thrillers",Movie,0.0
+s1365,40851,auto,Zathura (2005),Zathura,100.0,0.4,2005,"Children & Family Movies, Sci-Fi & Fantasy",Movie,0.0
+s137,7162,auto,Cold Mountain (2003),Cold Mountain,100.0,0.67,2003,"Dramas, Romantic Movies",Movie,76.2
+s138,4254,auto,Crocodile Dundee in Los Angeles (2001),Crocodile Dundee in Los Angeles,100.0,0.0,2001,"Action & Adventure, Comedies",Movie,0.0
+s139,74688,auto,Dear John (2010),Dear John,100.0,0.67,2010,"Dramas, Romantic Movies",Movie,0.0
+s1397,106785,auto,Homefront (2013),Homefront,100.0,0.25,2013,Action & Adventure,Movie,0.0
+s140,3424,auto,Do the Right Thing (1989),Do the Right Thing,100.0,1.0,1989,"Classic Movies, Comedies, Dramas",Movie,0.0
+s1422,92259,auto,Intouchables (2011),The Intouchables,100.0,0.5,2011,"Comedies, Dramas, International Movies",Movie,0.0
+s143,49910,auto,Freedom Writers (2007),Freedom Writers,100.0,1.0,2007,Dramas,Movie,0.0
+s1445,99087,auto,Playing for Keeps (2012),Playing for Keeps,100.0,0.5,2012,"Comedies, Romantic Movies, Sports Movies",Movie,0.0
+s1448,76030,auto,Case 39 (2009),Case 39,100.0,1.0,2009,"Horror Movies, Thrillers",Movie,0.0
+s145,3773,auto,House Party (1990),House Party,100.0,,1990,"Comedies, Cult Movies",Movie,100.0
+s1451,4102,auto,Eddie Murphy Raw (1987),Eddie Murphy: Raw,100.0,0.5,1987,Stand-Up Comedy,Movie,0.0
+s1454,6464,auto,Good Burger (1997),Good Burger,100.0,0.5,1997,"Children & Family Movies, Comedies",Movie,0.0
+s1462,4062,auto,Mystic Pizza (1988),Mystic Pizza,100.0,0.33,1988,"Comedies, Dramas, Independent Movies",Movie,0.0
+s147,470,auto,House Party 3 (1994),House Party 3,100.0,0.0,1994,"Comedies, Music & Musicals",Movie,92.3
+s1470,337,auto,What's Eating Gilbert Grape (1993),What's Eating Gilbert Grape,100.0,1.0,1993,"Classic Movies, Dramas, Independent Movies",Movie,0.0
+s1486,84944,auto,Rango (2011),Rango,100.0,0.17,2011,"Children & Family Movies, Comedies",Movie,0.0
+s1499,104875,auto,"History of Future Folk, The (2012)",The History of Future Folk,100.0,0.2,2012,"Action & Adventure, Comedies, Independent Movies",Movie,0.0
+s151,2812,auto,In Too Deep (1999),In Too Deep,100.0,0.5,1999,Thrillers,Movie,0.0
+s1514,86355,auto,Atlas Shrugged: Part 1 (2011),Atlas Shrugged: Part II,95.0,0.33,2012,Dramas,Movie,0.0
+s1538,104337,auto,Lee Daniels' The Butler (2013),Lee Daniels' The Butler,100.0,1.0,2013,Dramas,Movie,0.0
+s1541,149334,auto,Nocturnal Animals,Nocturnal Animals,100.0,1.0,2016,"Dramas, Thrillers",Movie,0.0
+s156,1967,auto,Labyrinth (1986),Labyrinth,100.0,0.2,1986,"Action & Adventure, Children & Family Movies, Cult Movies",Movie,0.0
+s157,78316,auto,Letters to Juliet (2010),Letters to Juliet,100.0,1.0,2010,"Comedies, Dramas, Romantic Movies",Movie,0.0
+s1609,109569,auto,3 Days to Kill (2014),3 Days to Kill,100.0,0.25,2014,Action & Adventure,Movie,0.0
+s1611,68554,auto,Angels & Demons (2009),Angels & Demons,100.0,0.25,2009,Thrillers,Movie,82.4
+s1613,111443,auto,Chef (2014),Chef,100.0,,2014,"Comedies, Independent Movies",Movie,100.0
+s162,1391,auto,Mars Attacks! (1996),Mars Attacks!,100.0,0.25,1996,"Comedies, Cult Movies, Sci-Fi & Fantasy",Movie,0.0
+s1622,26750,auto,Quigley Down Under (1990),Quigley Down Under,100.0,0.25,1990,Action & Adventure,Movie,0.0
+s1625,45447,auto,"Da Vinci Code, The (2006)",The Da Vinci Code,100.0,0.33,2006,Thrillers,Movie,0.0
+s164,6687,auto,My Boss's Daughter (2003),My Boss's Daughter,100.0,0.5,2003,"Comedies, Romantic Movies",Movie,0.0
+s165,2723,auto,Mystery Men (1999),Mystery Men,100.0,0.25,1999,"Action & Adventure, Comedies",Movie,77.8
+s167,1227,auto,Once Upon a Time in America (1984),Once Upon a Time in America,100.0,0.5,1984,"Classic Movies, Dramas",Movie,80.0
+s169,4719,auto,Osmosis Jones (2001),Osmosis Jones,100.0,0.11,2001,"Action & Adventure, Children & Family Movies, Comedies",Movie,0.0
+s1690,179133,auto,Loving Vincent (2017),Loving,100.0,0.25,2016,"Dramas, Romantic Movies",Movie,0.0
+s1695,105468,auto,Cloudy with a Chance of Meatballs 2 (2013),Cloudy with a Chance of Meatballs 2,100.0,0.25,2013,"Children & Family Movies, Comedies",Movie,0.0
+s170,45442,auto,Poseidon (2006),Poseidon,100.0,0.5,2006,"Action & Adventure, Dramas",Movie,0.0
+s1700,3675,auto,White Christmas (1954),White Christmas,100.0,0.0,1954,"Children & Family Movies, Classic Movies, Comedies",Movie,75.0
+s1711,103624,auto,Fruitvale Station (2013),Fruitvale Station,100.0,1.0,2013,"Dramas, Independent Movies",Movie,0.0
+s1715,59306,auto,Prom Night (2008),Prom Night,100.0,0.33,2008,Horror Movies,Movie,0.0
+s173,6863,auto,School of Rock (2003),School of Rock,100.0,0.5,2003,"Comedies, Music & Musicals",Movie,100.0
+s1744,176419,auto,Mother! (2017),MOTHER,100.0,0.25,2020,"Dramas, International Movies",Movie,100.0
+s175,6213,auto,Tears of the Sun (2003),Tears of the Sun,100.0,0.5,2003,"Action & Adventure, Dramas",Movie,77.4
+s176,2950,auto,"Blue Lagoon, The (1980)",The Blue Lagoon,100.0,0.67,1980,"Dramas, Romantic Movies",Movie,0.0
+s1762,4619,auto,Little Monsters (1989),Little Monsters,100.0,0.0,1989,"Children & Family Movies, Comedies",Movie,0.0
+s1765,157699,auto,Snowden (2016),Snowden,100.0,1.0,2016,"Dramas, Thrillers",Movie,0.0
+s1769,502,auto,"Next Karate Kid, The (1994)",The Next Karate Kid,100.0,0.2,1994,"Action & Adventure, Dramas, Sports Movies",Movie,0.0
+s177,2735,auto,"Golden Child, The (1986)",The Golden Child,100.0,0.4,1986,"Action & Adventure, Comedies",Movie,0.0
+s178,3654,auto,"Guns of Navarone, The (1961)",The Guns of Navarone,100.0,0.5,1961,"Action & Adventure, Classic Movies",Movie,0.0
+s179,119141,auto,The Interview (2014),The Interview,100.0,0.33,2014,"Action & Adventure, Comedies",Movie,0.0
+s180,788,auto,"Nutty Professor, The (1996)",The Nutty Professor,100.0,0.25,1996,"Comedies, Romantic Movies",Movie,0.0
+s181,3821,auto,Nutty Professor II: The Klumps (2000),The Nutty Professor II: The Klumps,100.0,0.0,2000,"Comedies, Romantic Movies",Movie,0.0
+s1830,2839,auto,West Beirut (West Beyrouth) (1998),West Beirut,100.0,1.0,1999,"Dramas, International Movies",Movie,0.0
+s1834,96281,auto,ParaNorman (2012),ParaNorman,100.0,0.0,2012,"Children & Family Movies, Comedies",Movie,0.0
+s184,474,auto,In the Line of Fire (1993),In the Line of Fire,100.0,0.33,1993,"Action & Adventure, Classic Movies",Movie,84.6
+s1846,161354,auto,Batman: The Killing Joke (2016),Batman: The Killing Joke,100.0,0.2,2016,Action & Adventure,Movie,0.0
+s1866,134334,auto,Phir Hera Pheri (2006),Phir Hera Pheri,100.0,,2006,"Comedies, International Movies",Movie,0.0
+s1913,152970,auto,Hunt for the Wilderpeople (2016),Hunt for the Wilderpeople,100.0,0.25,2016,"Action & Adventure, Comedies, Dramas",Movie,0.0
+s1917,33838,auto,Rize (2005),Rize,100.0,0.5,2005,"Documentaries, Music & Musicals",Movie,0.0
+s192,175569,auto,Wind River (2017),Wind River,100.0,0.0,2017,"Dramas, Independent Movies",Movie,0.0
+s1935,94130,auto,Bully (2011),Bully,100.0,1.0,2012,Documentaries,Movie,0.0
+s1958,90249,auto,Real Steel (2011),Real Steel,100.0,0.4,2011,"Action & Adventure, Sci-Fi & Fantasy, Sports Movies",Movie,0.0
+s2002,6268,auto,Raising Victor Vargas (2002),Raising Victor Vargas,100.0,0.67,2002,"Dramas, Independent Movies, Romantic Movies",Movie,0.0
+s2004,104076,auto,"Smurfs 2, The (2013)",The Smurfs 2,100.0,0.33,2013,"Children & Family Movies, Comedies",Movie,100.0
+s2011,112175,auto,How to Train Your Dragon 2 (2014),How to Train Your Dragon 2,100.0,0.0,2014,Children & Family Movies,Movie,83.3
+s2042,81191,auto,Waiting for 'Superman' (2010),"Waiting for ""Superman""",100.0,1.0,2010,Documentaries,Movie,0.0
+s2073,63479,auto,Sex Drive (2008),Sex Drive,100.0,,2008,Comedies,Movie,100.0
+s2075,2322,auto,Soldier (1998),Soldier,100.0,0.0,1998,"Comedies, Dramas, International Movies",Movie,100.0
+s2121,99149,auto,"Misérables, Les (2012)",Les Misérables,100.0,0.67,2012,"Dramas, International Movies, Music & Musicals",Movie,0.0
+s2122,119655,auto,Seventh Son (2014),Seventh Son,100.0,0.4,2014,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s2143,109846,auto,Mr. Peabody & Sherman (2014),Mr. Peabody & Sherman,100.0,0.0,2014,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Movie,0.0
+s2261,93272,auto,Dr. Seuss' The Lorax (2012),Dr. Seuss' The Lorax,100.0,0.0,2012,Children & Family Movies,Movie,0.0
+s2269,157312,auto,The Boss (2016),Boss,100.0,0.0,2013,"Action & Adventure, Comedies, Dramas",Movie,0.0
+s2297,167064,auto,I Am Not Your Negro (2017),I Am Not Your Negro,100.0,1.0,2017,Documentaries,Movie,0.0
+s2312,2881,auto,Double Jeopardy (1999),Double Jeopardy,100.0,0.25,1999,Thrillers,Movie,0.0
+s2315,54259,auto,Stardust (2007),Stardust,100.0,0.4,2007,"Action & Adventure, International Movies, Romantic Movies",Movie,0.0
+s2318,2916,auto,Total Recall (1990),Total Recall,100.0,0.6,1990,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s2378,110130,auto,"Nut Job, The (2014)",The Nut Job,100.0,0.25,2014,"Children & Family Movies, Comedies",Movie,100.0
+s2408,80727,auto,Middle Men (2009),Middle Men,100.0,0.33,2009,"Comedies, Dramas, Independent Movies",Movie,0.0
+s2431,177615,auto,Lady Bird (2017),Lady Bird,100.0,0.0,2017,"Comedies, Dramas, Independent Movies",Movie,0.0
+s2455,180297,auto,The Disaster Artist (2017),The Disaster Artist,100.0,0.5,2017,"Comedies, Dramas",Movie,0.0
+s2512,101070,auto,Wadjda (2012),Wadjda,100.0,1.0,2012,"Dramas, Independent Movies, International Movies",Movie,0.0
+s252,91079,auto,Like Crazy (2011),Like Crazy,100.0,1.0,2011,"Dramas, Independent Movies, Romantic Movies",Movie,0.0
+s2593,55261,auto,"Heartbreak Kid, The (2007)",The Heartbreak Kid,100.0,0.33,2007,"Comedies, Romantic Movies",Movie,0.0
+s2597,6266,auto,What a Girl Wants (2003),What a Girl Wants,100.0,0.0,2003,"Children & Family Movies, Comedies",Movie,0.0
+s2633,38304,auto,No Direction Home: Bob Dylan (2005),No Direction Home: Bob Dylan,100.0,0.5,2005,"Documentaries, Music & Musicals",Movie,0.0
+s2635,89904,auto,The Artist (2011),The Artist,100.0,0.33,2011,"Comedies, Dramas, Independent Movies",Movie,0.0
+s265,111375,auto,Walk of Shame (2014),Walk of Shame,100.0,,2014,"Comedies, Independent Movies",Movie,100.0
+s2678,143859,auto,"Hail, Caesar! (2016)","Hail, Caesar!",100.0,,2016,Comedies,Movie,0.0
+s268,509,auto,"Piano, The (1993)",The Piano,100.0,0.5,1993,"Classic Movies, Dramas, Independent Movies",Movie,0.0
+s2702,78893,auto,"Last Airbender, The (2010)",The Last Airbender,100.0,0.6,2010,"Action & Adventure, Children & Family Movies, Sci-Fi & Fantasy",Movie,0.0
+s2713,179119,auto,The Death of Stalin (2017),The Death of Stalin,100.0,0.0,2017,"Comedies, Dramas, Independent Movies",Movie,0.0
+s2746,76763,auto,"Runaways, The (2010)",The Runaways,100.0,1.0,2010,"Dramas, Independent Movies, Music & Musicals",Movie,0.0
+s2810,136666,auto,Search Party (2014),Search Party,100.0,,2014,Comedies,Movie,0.0
+s2848,144734,auto,Freaks of Nature (2015),Freaks,100.0,0.2,2018,"Independent Movies, Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s2861,90866,auto,Hugo (2011),Hugo,100.0,0.67,2011,"Children & Family Movies, Dramas",Movie,0.0
+s2864,56782,auto,There Will Be Blood (2007),There Will Be Blood,100.0,0.5,2007,"Dramas, Independent Movies",Movie,0.0
+s2885,140523,auto,"Visit, The (2015)",The Visit,100.0,0.0,2015,"Dramas, Independent Movies, International Movies",Movie,0.0
+s29,100810,auto,Dark Skies (2013),Dark Skies,100.0,0.5,2013,"Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s2904,165549,auto,Manchester by the Sea (2016),By the Sea,100.0,0.5,2015,"Dramas, Romantic Movies",Movie,82.4
+s2906,155509,auto,Mr. Right (2016),MR. RIGHT,100.0,0.5,2015,"Action & Adventure, Comedies, Romantic Movies",Movie,0.0
+s2929,174727,auto,Good Time (2017),Good Time,100.0,0.33,2017,"Dramas, Independent Movies, Thrillers",Movie,0.0
+s2979,128089,auto,Kevin Hart: I'm a Grown Little Man (2009),Kevin Hart: I'm a Grown Little Man,100.0,1.0,2009,Stand-Up Comedy,Movie,100.0
+s3009,103137,auto,"Bling Ring, The (2013)",The Bling Ring,100.0,0.5,2013,"Dramas, Independent Movies",Movie,0.0
+s3017,86059,auto,Hop (2011),Hop,100.0,0.33,2011,"Children & Family Movies, Comedies",Movie,0.0
+s3060,69469,auto,Garfield's Pet Force (2009),Garfield's Pet Force,100.0,0.0,2009,"Children & Family Movies, Comedies",Movie,83.3
+s3063,4990,auto,Jimmy Neutron: Boy Genius (2001),Jimmy Neutron: Boy Genius,100.0,0.17,2001,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Movie,0.0
+s3069,48394,auto,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Pan's Labyrinth,100.0,0.5,2006,"Dramas, International Movies, Sci-Fi & Fantasy",Movie,0.0
+s3099,178111,auto,"Fireworks, Should We See It from the Side or the Bottom? (2017)",Fireworks,100.0,0.5,2017,"Anime Features, Romantic Movies",Movie,0.0
+s3126,141749,auto,The Danish Girl (2015),The Danish Girl,100.0,1.0,2015,"Dramas, Independent Movies, International Movies",Movie,0.0
+s3144,81087,auto,Luck by Chance (2009),Luck by Chance,100.0,0.5,2009,"Dramas, International Movies, Romantic Movies",Movie,0.0
+s3163,170945,auto,It Comes at Night (2017),It Comes at Night,100.0,0.33,2017,"Horror Movies, Independent Movies",Movie,100.0
+s3171,193583,auto,No Game No Life: Zero (2017),No Game No Life: Zero,100.0,0.2,2017,"Action & Adventure, Anime Features, International Movies",Movie,0.0
+s3224,65216,auto,Defiance (2008),Defiance,100.0,0.2,2008,"Action & Adventure, Dramas",Movie,0.0
+s3236,175585,auto,Shot Caller (2017),Shot Caller,100.0,0.5,2017,"Dramas, Thrillers",Movie,0.0
+s326,6793,auto,Beethoven (1992),Beethoven,100.0,0.33,1992,"Children & Family Movies, Comedies",Movie,100.0
+s3261,136511,auto,Jeff Dunham: All Over the Map (2014),Jeff Dunham: All Over the Map,100.0,1.0,2014,Stand-Up Comedy,Movie,0.0
+s3262,141422,auto,Suffragette (2015),Suffragette,100.0,1.0,2015,"Dramas, International Movies",Movie,0.0
+s3263,133832,auto,The Green Inferno (2014),The Green Inferno,100.0,0.5,2013,"Horror Movies, Independent Movies",Movie,100.0
+s3291,72720,auto,"Single Man, A (2009)",A Single Man,100.0,1.0,2009,"Dramas, Independent Movies, LGBTQ Movies",Movie,75.0
+s330,5989,auto,Catch Me If You Can (2002),Catch Me If You Can,100.0,0.5,2002,Dramas,Movie,0.0
+s3308,136859,auto,The Lovers (2015),The Lovers,100.0,0.0,2017,"Comedies, Dramas, Independent Movies",Movie,80.0
+s331,71264,auto,Cloudy with a Chance of Meatballs (2009),Cloudy with a Chance of Meatballs,100.0,0.5,2009,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Movie,0.0
+s333,2722,auto,Deep Blue Sea (1999),Deep Blue Sea,100.0,0.5,1999,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s334,2918,auto,Ferris Bueller's Day Off (1986),Ferris Bueller's Day Off,100.0,,1986,"Classic Movies, Comedies, Cult Movies",Movie,0.0
+s336,43912,auto,Freedomland (2006),Freedomland,100.0,0.33,2006,"Dramas, Thrillers",Movie,0.0
+s338,55245,auto,Good Luck Chuck (2007),Good Luck Chuck,100.0,0.5,2007,"Comedies, Romantic Movies",Movie,75.0
+s3390,169992,auto,Free Fire (2017),Free Fire,100.0,0.25,2016,"Action & Adventure, Comedies, Independent Movies",Movie,0.0
+s341,79132,auto,Inception (2010),Inception,100.0,0.38,2010,"Action & Adventure, Sci-Fi & Fantasy, Thrillers",Movie,84.2
+s342,3160,auto,Magnolia (1999),Magnolia,100.0,1.0,1999,"Dramas, Independent Movies",Movie,0.0
+s343,267,auto,Major Payne (1995),Major Payne,100.0,,1995,Comedies,Movie,0.0
+s344,5970,auto,My Girl (1991),My Girl,100.0,0.33,1991,Dramas,Movie,100.0
+s345,5969,auto,My Girl 2 (1994),My Girl 2,100.0,0.25,1994,"Children & Family Movies, Comedies, Dramas",Movie,100.0
+s347,61024,auto,Pineapple Express (2008),Pineapple Express,100.0,0.25,2008,"Action & Adventure, Comedies",Movie,100.0
+s3476,2354,auto,"Rugrats Movie, The (1998)",The Rugrats Movie,100.0,0.33,1998,"Children & Family Movies, Comedies",Movie,100.0
+s3477,38886,auto,"Squid and the Whale, The (2005)",The Squid and the Whale,100.0,0.5,2005,"Comedies, Dramas, Independent Movies",Movie,81.2
+s348,72701,auto,Planet 51 (2009),Planet 51,100.0,0.33,2009,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Movie,80.0
+s3488,102088,auto,"Grandmaster, The (Yi dai zong shi) (2013)",The Grandmaster,100.0,0.67,2013,"Action & Adventure, Dramas, International Movies",Movie,0.0
+s350,6565,auto,Seabiscuit (2003),Seabiscuit,100.0,1.0,2003,"Dramas, Sports Movies",Movie,0.0
+s351,3827,auto,Space Cowboys (2000),Space Cowboys,100.0,0.5,2000,"Action & Adventure, Dramas, Sci-Fi & Fantasy",Movie,0.0
+s3513,121715,auto,Sebastian Maniscalco: What's Wrong with People? (2012),Sebastian Maniscalco: What's Wrong with People?,100.0,1.0,2012,Stand-Up Comedy,Movie,100.0
+s352,8917,auto,Team America: World Police (2004),Team America: World Police,100.0,0.5,2004,"Action & Adventure, Comedies, Cult Movies",Movie,82.4
+s353,161922,auto,The Edge of Seventeen (2016),The Edge of Seventeen,100.0,0.0,2016,"Comedies, Dramas",Movie,0.0
+s355,7007,auto,"Last Boy Scout, The (1991)",The Last Boy Scout,100.0,0.17,1991,"Action & Adventure, Comedies",Movie,100.0
+s356,84392,auto,"Lincoln Lawyer, The (2011)",The Lincoln Lawyer,100.0,0.67,2011,"Dramas, Thrillers",Movie,100.0
+s358,8950,auto,The Machinist (2004),The Machinist,100.0,0.67,2004,"Dramas, Independent Movies, Thrillers",Movie,0.0
+s359,185,auto,"Net, The (1995)",The Net,100.0,0.33,1995,Thrillers,Movie,0.0
+s360,3865,auto,"Original Kings of Comedy, The (2000)",The Original Kings of Comedy,100.0,0.5,2000,Stand-Up Comedy,Movie,80.0
+s361,74450,auto,Valentine's Day (2010),Valentine's Day,100.0,0.5,2010,"Comedies, Romantic Movies",Movie,78.3
+s3621,128099,auto,Jim Jefferies: BARE (2014),Jim Jefferies : BARE,100.0,1.0,2014,Stand-Up Comedy,Movie,83.9
+s3729,27156,auto,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",The End of Evangelion,100.0,0.33,1997,"Action & Adventure, Anime Features, International Movies",Movie,0.0
+s3735,140725,auto,Cop Car (2015),Cop Car,100.0,0.5,2015,Thrillers,Movie,0.0
+s3774,166291,auto,A Silent Voice (2016),A Silent Voice,100.0,0.33,2016,"Anime Features, International Movies",Movie,0.0
+s3814,171631,auto,Maria Bamford: Old Baby,Maria,100.0,,2019,"Action & Adventure, International Movies",Movie,0.0
+s3870,101362,auto,Olympus Has Fallen (2013),Olympus Has Fallen,100.0,0.33,2013,Action & Adventure,Movie,0.0
+s3909,104374,auto,About Time (2013),About Time,100.0,0.33,2013,"Comedies, Dramas, International Movies",Movie,0.0
+s3913,171891,auto,Generation Iron 2,Generation Iron 3,94.1,,2018,"Documentaries, Sports Movies",Movie,0.0
+s393,99114,auto,Django Unchained (2012),Django Unchained,100.0,0.5,2012,"Action & Adventure, Dramas",Movie,0.0
+s3931,143367,auto,Silence (2016),The Silence,100.0,0.33,2019,"Horror Movies, Thrillers",Movie,0.0
+s4018,56715,auto,Wristcutters: A Love Story (2006),A Love Story,100.0,0.67,2007,"Dramas, International Movies, Romantic Movies",Movie,0.0
+s4066,58105,auto,"Spiderwick Chronicles, The (2008)",The Spiderwick Chronicles,100.0,0.25,2008,Children & Family Movies,Movie,0.0
+s4095,160400,auto,Genius (2016),Genius,100.0,1.0,2018,"Dramas, Independent Movies, International Movies",Movie,0.0
+s4096,118706,auto,Black Sea (2015),Black Sea,100.0,0.2,2015,"Action & Adventure, Dramas, International Movies",Movie,0.0
+s42,1387,auto,Jaws (1975),Jaws,100.0,0.25,1975,"Action & Adventure, Classic Movies, Dramas",Movie,100.0
+s4218,1136,auto,Monty Python and the Holy Grail (1975),Monty Python and the Holy Grail,100.0,0.25,1975,"Action & Adventure, Classic Movies, Comedies",Movie,0.0
+s4233,102217,auto,Bill Hicks: Revelations (1993),Bill Hicks: Revelations,100.0,1.0,1993,Stand-Up Comedy,Movie,0.0
+s4292,118354,auto,Kill the Messenger (2014),Kill the Messenger,100.0,0.5,2014,"Dramas, Thrillers",Movie,0.0
+s4293,112070,auto,Maps to the Stars (2014),Maps to the Stars,100.0,1.0,2014,"Comedies, Dramas",Movie,0.0
+s4295,117176,auto,The Theory of Everything (2014),The Theory of Everything,100.0,1.0,2014,"Dramas, Romantic Movies",Movie,78.8
+s4333,140627,auto,Battle For Sevastopol (2015),Battle,100.0,0.67,2018,"Dramas, International Movies, Romantic Movies",Movie,0.0
+s44,1389,auto,Jaws 3-D (1983),Jaws 3,100.0,0.5,1983,"Action & Adventure, Horror Movies, Thrillers",Movie,0.0
+s444,7306,auto,"Herod's Law (Ley de Herodes, La) (2000)",La ley de Herodes,100.0,,1999,"Comedies, International Movies",Movie,0.0
+s446,171759,auto,The Beguiled (2017),The Beguiled,100.0,0.67,2017,"Dramas, Independent Movies, Thrillers",Movie,0.0
+s449,98203,auto,"Twilight Saga: Breaking Dawn - Part 2, The (2012)",The Twilight Saga: Breaking Dawn: Part 2,100.0,0.5,2012,"Dramas, Romantic Movies",Movie,97.1
+s452,63992,auto,Twilight (2008),Twilight,100.0,0.33,2008,"Action & Adventure, Dramas, Romantic Movies",Movie,100.0
+s4548,6104,auto,Monty Python Live at the Hollywood Bowl (1982),Monty Python: Live at The Hollywood Bowl,100.0,,1982,Comedies,Movie,0.0
+s4553,1080,auto,Monty Python's Life of Brian (1979),Monty Python's Life of Brian,100.0,,1979,"Classic Movies, Comedies, Cult Movies",Movie,0.0
+s461,53460,auto,Surf's Up (2007),Surf's Up,100.0,0.33,2007,"Children & Family Movies, Comedies, Sports Movies",Movie,100.0
+s4642,136654,auto,The Face of an Angel (2015),The Angel,100.0,0.5,2018,"Dramas, International Movies, Thrillers",Movie,0.0
+s4661,120138,auto,PK (2014),PK,100.0,0.2,2014,"Comedies, Dramas, International Movies",Movie,0.0
+s4684,104644,auto,Maria Bamford: The Special Special Special! (2012),Maria Bamford: The Special Special Special,100.0,1.0,2012,Stand-Up Comedy,Movie,0.0
+s47,92507,auto,Safe House (2012),Safe House,100.0,0.2,2012,Action & Adventure,Movie,100.0
+s475,140711,auto,American Ultra (2015),American Ultra,100.0,0.2,2015,"Action & Adventure, Comedies",Movie,76.2
+s476,175577,auto,Rory Scovel Tries Stand-Up for the First Time (2017),The Stand-Up,100.0,1.0,2019,Stand-Up Comedy,Movie,0.0
+s4804,119153,auto,Bill Burr: You People Are All the Same (2012),Bill Burr: You People Are All the Same,100.0,1.0,2012,Stand-Up Comedy,Movie,0.0
+s487,157865,auto,Ratchet & Clank (2016),Ratchet and Clank,100.0,0.29,2016,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Movie,0.0
+s49,4776,auto,Training Day (2001),Training Day,100.0,0.67,2001,"Dramas, Thrillers",Movie,0.0
+s4902,183911,auto,The Clapper (2018),The Clapper,100.0,0.0,2017,"Comedies, Dramas, Independent Movies",Movie,0.0
+s495,144716,auto,Rock the Kasbah (2015),Rock the Kasbah,100.0,0.0,2015,"Comedies, Music & Musicals",Movie,0.0
+s4951,120807,auto,John Mulaney: New In Town (2012),John Mulaney: New in Town,100.0,1.0,2012,Stand-Up Comedy,Movie,100.0
+s497,110826,auto,Brick Mansions (2014),Brick Mansions,100.0,0.25,2014,"Action & Adventure, International Movies",Movie,0.0
+s4971,185435,auto,"Game Over, Man! (2018)","Game Over, Man!",100.0,0.33,2018,"Action & Adventure, Comedies",Movie,0.0
+s5034,184641,auto,Fullmetal Alchemist 2018 (2017),FullMetal Alchemist,100.0,0.5,2017,"Action & Adventure, Dramas, International Movies",Movie,0.0
+s5045,184015,auto,When We First Met (2018),When We First Met,100.0,0.0,2018,"Comedies, Romantic Movies",Movie,0.0
+s5046,184791,auto,Fred Armisen: Standup for Drummers (2018),Fred Armisen: Standup For Drummers,100.0,0.5,2018,"Music & Musicals, Stand-Up Comedy",Movie,0.0
+s5048,184253,auto,The Cloverfield Paradox (2018),The Cloverfield Paradox,100.0,0.14,2018,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s5087,183959,auto,Tom Segura: Disgraceful (2018),Tom Segura: Disgraceful,100.0,1.0,2018,Stand-Up Comedy,Movie,0.0
+s5103,174045,auto,Goon: Last of the Enforcers (2017),Goon: Last of the Enforcers,100.0,,2016,"Comedies, International Movies, Sports Movies",Movie,0.0
+s5114,182823,auto,Bright (2017),Bright,100.0,0.4,2017,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s5128,182749,auto,Judd Apatow: The Return (2017),Judd Apatow: The Return,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5135,181659,auto,Craig Ferguson: Tickle Fight (2017),Craig Ferguson: Tickle Fight,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5168,168608,auto,Mudbound (2017),Mudbound,100.0,1.0,2017,"Dramas, Independent Movies",Movie,0.0
+s5204,128360,auto,The Hateful Eight (2015),The Hateful Eight,100.0,0.0,2015,"Action & Adventure, Thrillers",Movie,0.0
+s5205,181065,auto,Jack Whitehall: At Large (2017),Jack Whitehall: At Large,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5241,171891,auto,Generation Iron 2,Generation Iron 2,100.0,,2017,"Documentaries, Sports Movies",Movie,0.0
+s5250,109864,auto,Veronica Mars (2014),Verónica,100.0,0.33,2017,"Dramas, Independent Movies, International Movies",Movie,0.0
+s5267,178323,auto,Gaga: Five Foot Two (2017),Gaga: Five Foot Two,100.0,0.5,2017,"Documentaries, Music & Musicals",Movie,0.0
+s5317,169958,auto,Buster's Mal Heart (2017),Buster's Mal Heart,100.0,0.0,2016,"Independent Movies, Thrillers",Movie,0.0
+s5320,181139,auto,Lynne Koplitz: Hormonal Beast (2017),Lynne Koplitz: Hormonal Beast,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5344,176423,auto,Icarus (2017),Icarus,100.0,1.0,2017,"Documentaries, Sports Movies",Movie,0.0
+s5358,177185,auto,Maz Jobrani: Immigrant (2017),Maz Jobrani: Immigrant,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5380,128914,auto,Tom Segura: Completely Normal (2014),Tom Segura: Completely Normal,100.0,1.0,2014,Stand-Up Comedy,Movie,0.0
+s5416,171765,auto,Okja (2017),Okja,100.0,0.75,2017,"Action & Adventure, Comedies, Dramas",Movie,0.0
+s5425,175577,auto,Rory Scovel Tries Stand-Up for the First Time (2017),Rory Scovel Tries Stand-Up for the First Time,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5433,174681,auto,"Oh, Hello: On Broadway (2017)","Oh, Hello On Broadway",100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5454,176805,auto,Little Boxes (2017),Little Boxes,100.0,0.5,2016,"Comedies, Dramas, Independent Movies",Movie,0.0
+s5474,173209,auto,War Machine (2017),War Machine,100.0,0.33,2017,"Comedies, Dramas",Movie,77.8
+s5490,172461,auto,Get Me Roger Stone (2017),Get Me Roger Stone,100.0,1.0,2017,Documentaries,Movie,0.0
+s5493,173255,auto,"Norm Macdonald: Hitler's Dog, Gossip & Trickery (2017)","Norm Macdonald: Hitler's Dog, Gossip & Trickery",100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5498,171631,auto,Maria Bamford: Old Baby,Maria Bamford: Old Baby,100.0,,2017,Stand-Up Comedy,Movie,0.0
+s5519,173253,auto,Vir Das: Abroad Understanding (2017),Vir Das: Abroad Understanding,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5534,170897,auto,Sandy Wexler (2017),Sandy Wexler,100.0,,2017,Comedies,Movie,0.0
+s5541,170937,auto,Win It All (2017),Win It All,100.0,0.0,2017,"Comedies, Independent Movies, Romantic Movies",Movie,100.0
+s556,107406,auto,Snowpiercer (2013),Snowpiercer,100.0,0.25,2013,"Action & Adventure, Cult Movies, International Movies",Movie,0.0
+s5571,3260,auto,Howards End (1992),Howards End,100.0,1.0,1992,"Classic Movies, Dramas, Independent Movies",Movie,0.0
+s560,1608,auto,Air Force One (1997),Air Force One,100.0,0.33,1997,Action & Adventure,Movie,0.0
+s562,5481,auto,Austin Powers in Goldmember (2002),Austin Powers in Goldmember,100.0,0.0,2002,"Action & Adventure, Comedies",Movie,0.0
+s563,1517,auto,Austin Powers: International Man of Mystery (1997),Austin Powers: International Man of Mystery,100.0,,1997,Comedies,Movie,77.8
+s5632,168846,auto,Neal Brennan: 3 Mics (2017),Neal Brennan: 3 Mics,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5633,66511,auto,Berlin Calling (2008),Berlin Calling,100.0,0.33,2008,"Dramas, International Movies, Music & Musicals",Movie,0.0
+s564,2683,auto,Austin Powers: The Spy Who Shagged Me (1999),Austin Powers: The Spy Who Shagged Me,100.0,0.4,1999,"Action & Adventure, Comedies, Sci-Fi & Fantasy",Movie,75.0
+s5640,168174,auto,Jim Gaffigan: Cinco (2017),Jim Gaffigan: Cinco,100.0,1.0,2017,Stand-Up Comedy,Movie,0.0
+s5649,55768,auto,Bee Movie (2007),Bee Movie,100.0,0.0,2007,"Children & Family Movies, Comedies",Movie,0.0
+s565,1673,auto,Boogie Nights (1997),Boogie Nights,100.0,1.0,1997,"Comedies, Dramas, Independent Movies",Movie,0.0
+s567,3977,auto,Charlie's Angels (2000),Charlie's Angels,100.0,0.33,2000,"Action & Adventure, Comedies",Movie,100.0
+s568,160,auto,Congo (1995),Congo,100.0,0.4,1995,"Action & Adventure, Thrillers",Movie,0.0
+s569,6166,auto,Dennis the Menace (1993),Dennis the Menace,100.0,0.0,1993,"Children & Family Movies, Comedies",Movie,0.0
+s5710,134881,auto,Love & Mercy (2014),Mercy,100.0,0.5,2016,"Dramas, Thrillers",Movie,0.0
+s5720,165947,auto,The True Memoirs of an International Assassin (2016),True Memoirs of an International Assassin,100.0,0.33,2016,"Action & Adventure, Comedies",Movie,0.0
+s5725,167854,auto,"Dana Carvey: Straight White Male, 60 (2016)","Dana Carvey: Straight White Male, 60",100.0,1.0,2016,Stand-Up Comedy,Movie,0.0
+s5740,166015,auto,The African Doctor (2016),The African Doctor,100.0,0.5,2016,"Comedies, Dramas, International Movies",Movie,0.0
+s5746,165483,auto,Joe Rogan: Triggered (2016),Joe Rogan: Triggered,100.0,1.0,2016,Stand-Up Comedy,Movie,0.0
+s5758,164917,auto,13th (2016),13TH,100.0,1.0,2016,Documentaries,Movie,0.0
+s576,80860,auto,Life as We Know It (2010),Life as We Know It,100.0,0.33,2010,"Comedies, Dramas, Romantic Movies",Movie,0.0
+s5783,164540,auto,Amanda Knox (2016),Amanda Knox,100.0,1.0,2016,Documentaries,Movie,0.0
+s579,41571,auto,Memoirs of a Geisha (2005),Memoirs of a Geisha,100.0,1.0,2005,"Dramas, Romantic Movies",Movie,0.0
+s5793,163985,auto,ARQ (2016),ARQ,100.0,0.67,2016,"International Movies, Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s5795,86345,auto,Louis C.K.: Hilarious (2010),Louis C.K.: Hilarious,100.0,,2010,Movies,Movie,0.0
+s580,3104,auto,Midnight Run (1988),Midnight Run,100.0,0.2,1988,"Action & Adventure, Classic Movies, Comedies",Movie,100.0
+s5814,127098,auto,Louis C.K.: Live at The Comedy Store (2015),Louis C.K.: Live at the Comedy Store,100.0,,2015,Movies,Movie,0.0
+s582,44,auto,Mortal Kombat (1995),Mortal Kombat,100.0,0.75,1995,"Action & Adventure, Sci-Fi & Fantasy",Movie,100.0
+s5820,163653,auto,David Cross: Making America Great Again (2016),David Cross: Making America Great Again!,100.0,1.0,2016,Stand-Up Comedy,Movie,0.0
+s5836,161024,auto,Jim Jefferies: Freedumb (2016),Jim Jefferies: Freedumb,100.0,1.0,2016,Stand-Up Comedy,Movie,83.9
+s584,84374,auto,No Strings Attached (2011),No Strings Attached,100.0,0.5,2011,"Comedies, Romantic Movies",Movie,0.0
+s5841,159717,auto,The Fundamentals of Caring (2016),The Fundamentals of Caring,100.0,1.0,2016,"Comedies, Dramas, Independent Movies",Movie,0.0
+s5842,152591,auto,Ip Man 3 (2015),Ip Man 3,100.0,0.33,2015,"Action & Adventure, Dramas, International Movies",Movie,77.8
+s5843,159849,auto,Bo Burnham: Make Happy (2016),Bo Burnham: Make Happy,100.0,0.5,2016,"Music & Musicals, Stand-Up Comedy",Movie,0.0
+s5847,159441,auto,The Do-Over (2016),The Do-Over,100.0,0.0,2016,"Action & Adventure, Comedies",Movie,0.0
+s5848,159161,auto,Ali Wong: Baby Cobra (2016),Ali Wong: Baby Cobra,100.0,,2016,Stand-Up Comedy,Movie,0.0
+s585,4974,auto,Not Another Teen Movie (2001),Not Another Teen Movie,100.0,,2001,Comedies,Movie,0.0
+s5853,156726,auto,Hush (2016),Hush,100.0,0.5,2016,"Horror Movies, Thrillers",Movie,75.0
+s5859,149011,auto,He Never Died (2015),He Never Died,100.0,0.33,2015,"Comedies, Horror Movies",Movie,0.0
+s5876,162344,auto,Tom Segura: Mostly Stories (2016),Tom Segura: Mostly Stories,100.0,1.0,2016,Stand-Up Comedy,Movie,0.0
+s5880,148652,auto,The Ridiculous 6 (2015),The Ridiculous 6,100.0,0.0,2015,"Action & Adventure, Comedies",Movie,0.0
+s5882,148238,auto,A Very Murray Christmas (2015),A Very Murray Christmas,100.0,0.0,2015,"Comedies, Music & Musicals",Movie,0.0
+s5885,148667,auto,John Mulaney: The Comeback Kid (2015),John Mulaney: The Comeback Kid,100.0,1.0,2015,Stand-Up Comedy,Movie,0.0
+s5892,141890,auto,Beasts of No Nation (2015),Beasts of No Nation,100.0,0.5,2015,"Dramas, Independent Movies",Movie,0.0
+s5893,143365,auto,The Circle (2016),Circle,100.0,0.5,2015,"Dramas, Independent Movies, Sci-Fi & Fantasy",Movie,100.0
+s5904,136602,auto,Creep (2014),Creep,100.0,1.0,2014,"Horror Movies, Independent Movies, Thrillers",Movie,100.0
+s5907,127164,auto,"What Happened, Miss Simone? (2015)","What Happened, Miss Simone?",100.0,0.5,2015,"Documentaries, Music & Musicals",Movie,0.0
+s5911,134248,auto,Hot Girls Wanted (2015),Hot Girls Wanted,100.0,1.0,2015,Documentaries,Movie,0.0
+s592,64716,auto,Seven Pounds (2008),Seven Pounds,100.0,0.5,2008,"Dramas, Romantic Movies",Movie,0.0
+s5920,131826,auto,Iliza Shlesinger: Freezing Hot (2015),Iliza Shlesinger: Freezing Hot,100.0,1.0,2015,Stand-Up Comedy,Movie,0.0
+s5922,118930,auto,Bill Burr: I'm Sorry You Feel That Way (2014),Bill Burr: I'm Sorry You Feel That Way,100.0,1.0,2014,Stand-Up Comedy,Movie,0.0
+s5926,117364,auto,Virunga (2014),Virunga,100.0,0.5,2014,"Documentaries, International Movies",Movie,0.0
+s593,74946,auto,She's Out of My League (2010),She's Out of My League,100.0,0.0,2010,"Comedies, Romantic Movies",Movie,0.0
+s594,3286,auto,Snow Day (2000),Snow Day,100.0,0.0,2000,"Children & Family Movies, Comedies",Movie,0.0
+s5942,91869,auto,Being Elmo: A Puppeteer's Journey (2011),Being Elmo: A Puppeteer's Journey,100.0,1.0,2011,Documentaries,Movie,0.0
+s595,68358,auto,Star Trek (2009),Star Trek,100.0,0.75,2009,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s5955,84240,auto,Even the Rain (También la lluvia) (2010),Even the Rain,100.0,1.0,2010,"Dramas, International Movies",Movie,0.0
+s596,3157,auto,Stuart Little (1999),Stuart Little,100.0,0.33,1999,"Children & Family Movies, Comedies",Movie,100.0
+s5960,58803,auto,21 (2008),21,100.0,0.25,2008,Dramas,Movie,0.0
+s5961,1609,auto,187 (One Eight Seven) (1997),187,100.0,0.5,1997,Dramas,Movie,0.0
+s598,46970,auto,Talladega Nights: The Ballad of Ricky Bobby (2006),Talladega Nights: The Ballad of Ricky Bobby,100.0,0.33,2006,"Action & Adventure, Comedies, Sports Movies",Movie,100.0
+s5982,58293,auto,"10,000 BC (2008)","10,000 B.C.",94.7,0.25,2008,Action & Adventure,Movie,0.0
+s5989,110286,auto,13 Sins (2014),13 Sins,100.0,1.0,2014,"Horror Movies, Thrillers",Movie,0.0
+s5993,43936,auto,16 Blocks (2006),16 Blocks,100.0,0.0,2006,Action & Adventure,Movie,0.0
+s5994,68135,auto,17 Again (2009),17 Again,100.0,,2009,Comedies,Movie,76.9
+s5997,103107,auto,20 Feet from Stardom (Twenty Feet from Stardom) (2013),20 Feet From Stardom,100.0,0.5,2013,"Documentaries, Music & Musicals",Movie,0.0
+s6001,100507,auto,21 and Over (2013),21 & Over,100.0,,2013,Comedies,Movie,0.0
+s6007,3534,auto,28 Days (2000),28 Days,100.0,1.0,2000,"Comedies, Dramas",Movie,100.0
+s6013,88812,auto,30 Minutes or Less (2011),30 Minutes or Less,100.0,0.25,2011,"Action & Adventure, Comedies",Movie,82.4
+s6018,134021,auto,5 to 7 (2014),5 to 7,100.0,0.67,2014,"Comedies, Dramas, Romantic Movies",Movie,0.0
+s6019,7293,auto,50 First Dates (2004),50 First Dates,100.0,0.5,2004,"Comedies, Romantic Movies",Movie,0.0
+s602,2420,auto,"Karate Kid, The (1984)",The Karate Kid,100.0,0.0,1984,"Action & Adventure, Children & Family Movies, Classic Movies",Movie,100.0
+s6020,89864,auto,50/50 (2011),50/50,100.0,0.5,2011,"Comedies, Dramas, Independent Movies",Movie,0.0
+s6031,7980,auto,"Bridge Too Far, A (1977)",A Bridge Too Far,100.0,0.5,1977,"Action & Adventure, Classic Movies, Dramas",Movie,0.0
+s6032,1206,auto,"Clockwork Orange, A (1971)",A Clockwork Orange,100.0,0.25,1971,"Classic Movies, Cult Movies, Dramas",Movie,0.0
+s604,2422,auto,"Karate Kid, Part III, The (1989)",The Karate Kid Part III,100.0,0.5,1989,"Children & Family Movies, Dramas",Movie,97.3
+s6040,110773,auto,"Haunted House 2, A (2014)",A Haunted House,100.0,0.5,2013,"Comedies, Horror Movies",Movie,0.0
+s605,6187,auto,"Life of David Gale, The (2003)",The Life of David Gale,100.0,0.33,2003,Dramas,Movie,0.0
+s6050,2296,auto,"Night at the Roxbury, A (1998)",A Night at the Roxbury,100.0,,1998,"Comedies, Cult Movies",Movie,0.0
+s6057,89759,auto,"Separation, A (Jodaeiye Nader az Simin) (2011)",A Separation,100.0,1.0,2011,"Dramas, International Movies",Movie,0.0
+s6058,71464,auto,"Serious Man, A (2009)",A Serious Man,100.0,,2009,"Comedies, Independent Movies",Movie,0.0
+s6061,626,auto,"Thin Line Between Love and Hate, A (1996)",A Thin Line Between Love & Hate,100.0,0.0,1996,"Comedies, Romantic Movies",Movie,81.8
+s6062,95067,auto,"Thousand Words, A (2012)",A Thousand Words,100.0,,2012,Comedies,Movie,100.0
+s6063,5066,auto,"Walk to Remember, A (2002)",A Walk to Remember,100.0,1.0,2002,"Dramas, Romantic Movies",Movie,0.0
+s6066,184987,auto,A Wrinkle in Time (2018),A Wrinkle in Time,100.0,0.25,2018,Children & Family Movies,Movie,0.0
+s6082,5377,auto,About a Boy (2002),About a Boy,100.0,0.33,2002,"Comedies, Dramas, International Movies",Movie,77.8
+s6086,54190,auto,Across the Universe (2007),Across the Universe,100.0,0.75,2007,"Dramas, Music & Musicals, Romantic Movies",Movie,80.0
+s6087,93297,auto,Act of Valor (2012),Act of Valor,100.0,0.25,2012,Action & Adventure,Movie,0.0
+s609,5400,auto,"Sum of All Fears, The (2002)",The Sum of All Fears,100.0,0.0,2002,Action & Adventure,Movie,0.0
+s610,82202,auto,"Tourist, The (2010)",The Tourist,100.0,0.0,2010,"Action & Adventure, Romantic Movies",Movie,0.0
+s611,6754,auto,Underworld (2003),Underworld,100.0,0.6,2003,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Movie,100.0
+s6112,8838,auto,Alice Doesn't Live Here Anymore (1974),Alice Doesn't Live Here Anymore,100.0,0.5,1974,"Classic Movies, Comedies, Dramas",Movie,0.0
+s6117,2123,auto,All Dogs Go to Heaven (1989),All Dogs Go to Heaven,100.0,0.2,1989,Children & Family Movies,Movie,0.0
+s612,91974,auto,Underworld: Awakening (2012),Underworld: Awakening,100.0,0.6,2012,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s6121,59738,auto,All the Boys Love Mandy Lane (2006),All the Boys Love Mandy Lane,100.0,0.33,2006,Horror Movies,Movie,0.0
+s6124,4238,auto,Along Came a Spider (2001),Along Came a Spider,100.0,0.25,2001,Thrillers,Movie,100.0
+s613,65682,auto,Underworld: Rise of the Lycans (2009),Underworld: Rise of the Lycans,100.0,0.5,2009,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s6136,2858,auto,American Beauty (1999),American Beauty,100.0,0.5,1999,Dramas,Movie,80.0
+s6143,126420,auto,American Heist (2015),American Heist,100.0,0.33,2014,"Action & Adventure, Dramas",Movie,82.8
+s6144,2329,auto,American History X (1998),American History X,100.0,0.5,1998,Dramas,Movie,80.0
+s615,2297,auto,What Dreams May Come (1998),What Dreams May Come,100.0,0.6,1998,"Dramas, Romantic Movies, Sci-Fi & Fantasy",Movie,80.0
+s6150,137337,auto,Amy (2015),Amy,100.0,0.5,2015,"Documentaries, International Movies, Music & Musicals",Movie,75.0
+s6152,2141,auto,"American Tail, An (1986)",An American Tail,100.0,0.25,1986,Children & Family Movies,Movie,76.2
+s6153,2142,auto,"American Tail: Fievel Goes West, An (1991)",An American Tail: Fievel Goes West,100.0,0.2,1991,Children & Family Movies,Movie,84.2
+s6164,4305,auto,Angel Eyes (2001),Angel Eyes,100.0,0.33,2001,"Dramas, Romantic Movies",Movie,0.0
+s6165,6287,auto,Anger Management (2003),Anger Management,100.0,,2003,Comedies,Movie,0.0
+s6181,92192,auto,Apollo 18 (2011),Apollo 18,100.0,0.75,2011,"Horror Movies, Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s6186,86293,auto,Arthur (2011),Arthur,100.0,0.0,2011,"Comedies, Romantic Movies",Movie,100.0
+s6188,113780,auto,"As Above, So Below (2014)","As Above, So Below",100.0,1.0,2014,"Horror Movies, Thrillers",Movie,0.0
+s6189,1784,auto,As Good as It Gets (1997),As Good as It Gets,100.0,0.33,1997,"Comedies, Romantic Movies",Movie,0.0
+s6200,114847,auto,Autómata (Automata) (2014),Automata,100.0,0.67,2014,"International Movies, Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s6201,122912,auto,Avengers: Infinity War - Part I (2018),Avengers: Infinity War,100.0,0.75,2018,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s6205,51167,auto,My Father and My Son (Babam ve oglum) (2005),Babam ve Oğlum,100.0,1.0,2005,"Dramas, International Movies",Movie,0.0
+s6206,46723,auto,Babel (2006),Babel,100.0,0.5,2006,"Dramas, Independent Movies",Movie,0.0
+s6212,145,auto,Bad Boys (1995),Bad Boys,100.0,0.17,1995,"Action & Adventure, Comedies",Movie,100.0
+s6213,6548,auto,Bad Boys II (2003),Bad Boys II,100.0,0.2,2003,"Action & Adventure, Comedies",Movie,0.0
+s6221,13,auto,Balto (1995),Balto,100.0,0.25,1995,"Children & Family Movies, Dramas",Movie,0.0
+s6245,133867,auto,Barely Lethal (2015),Barely Lethal,100.0,0.67,2015,"Action & Adventure, Comedies",Movie,0.0
+s6248,2060,auto,BASEketball (1998),BASEketball,100.0,,1998,"Comedies, Sports Movies",Movie,0.0
+s6249,1092,auto,Basic Instinct (1992),Basic Instinct,100.0,0.33,1992,"Classic Movies, Thrillers",Movie,0.0
+s6267,1405,auto,Beavis and Butt-Head Do America (1996),Beavis and Butt-head Do America,100.0,,1996,"Comedies, Cult Movies",Movie,0.0
+s6271,51834,auto,Becoming Jane (2007),Becoming Jane,100.0,1.0,2007,"Dramas, Romantic Movies",Movie,0.0
+s6272,65088,auto,Bedtime Stories (2008),Bedtime Stories,100.0,0.33,2008,"Children & Family Movies, Comedies",Movie,0.0
+s6289,170907,auto,Betting on Zero (2016),Betting on Zero,100.0,1.0,2017,Documentaries,Movie,0.0
+s6304,2694,auto,Big Daddy (1999),Big Daddy,100.0,,1999,Comedies,Movie,0.0
+s6306,5092,auto,Big Fat Liar (2002),Big Fat Liar,100.0,0.5,2002,"Children & Family Movies, Comedies",Movie,0.0
+s631,97860,auto,Killing Them Softly (2012),Killing Them Softly,100.0,0.33,2012,Dramas,Movie,0.0
+s6311,121372,auto,Bill Burr: Let It Go (2010),Bill Burr: Let It Go,100.0,1.0,2010,Stand-Up Comedy,Movie,0.0
+s6312,3967,auto,Billy Elliot (2000),Billy Elliot,100.0,1.0,2000,"Dramas, Independent Movies, International Movies",Movie,0.0
+s6323,5010,auto,Black Hawk Down (2001),Black Hawk Down,100.0,0.5,2001,"Action & Adventure, Dramas",Movie,0.0
+s6326,122906,auto,Black Panther (2017),Black Panther,100.0,0.75,2018,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s6328,51091,auto,Black Snake Moan (2006),Black Snake Moan,100.0,1.0,2007,"Dramas, Independent Movies",Movie,0.0
+s6330,104272,auto,Blackfish (2013),Blackfish,100.0,1.0,2013,Documentaries,Movie,0.0
+s6338,4239,auto,Blow (2001),Blow,100.0,0.5,2001,Dramas,Movie,88.9
+s6339,105355,auto,Blue Is the Warmest Color (La vie d'Adèle) (2013),Blue Is the Warmest Color,100.0,0.5,2013,"Dramas, Independent Movies, International Movies",Movie,0.0
+s6340,103980,auto,Blue Jasmine (2013),Blue Jasmine,100.0,1.0,2013,"Comedies, Dramas, Independent Movies",Movie,0.0
+s6341,146210,auto,Blue Mountain State: The Rise of Thadland (2015),Blue Mountain State: The Rise of Thadland,100.0,,2016,Comedies,Movie,0.0
+s6343,111384,auto,Blue Ruin (2013),Blue Ruin,100.0,1.0,2013,"Independent Movies, Thrillers",Movie,0.0
+s6344,2860,auto,Blue Streak (1999),Blue Streak,100.0,0.0,1999,"Action & Adventure, Comedies",Movie,0.0
+s6345,78039,auto,Blue Valentine (2010),Blue Valentine,100.0,1.0,2010,"Dramas, Independent Movies, Romantic Movies",Movie,78.3
+s6355,63859,auto,Bolt (2008),Bolt,100.0,0.2,2008,"Children & Family Movies, Comedies",Movie,0.0
+s6359,1084,auto,Bonnie and Clyde (1967),Bonnie and Clyde,100.0,0.25,1967,"Action & Adventure, Classic Movies, Dramas",Movie,0.0
+s6377,44761,auto,Brick (2005),Brick,100.0,0.0,2005,"Independent Movies, Thrillers",Movie,0.0
+s6391,83086,auto,Burlesque (2010),Burlesque,100.0,0.67,2010,"Dramas, Romantic Movies",Movie,0.0
+s6396,8617,auto,Butterfield 8 (1960),Butterfield 8,100.0,0.5,1960,"Classic Movies, Dramas, Romantic Movies",Movie,0.0
+s6413,114184,auto,Camp X-Ray (2014),Camp X-Ray,100.0,1.0,2014,"Dramas, Independent Movies",Movie,0.0
+s6415,1895,auto,Can't Hardly Wait (1998),Can't Hardly Wait,100.0,0.33,1998,"Comedies, Romantic Movies",Movie,0.0
+s6423,133645,auto,Carol (2015),Carol,100.0,1.0,2015,"Dramas, LGBTQ Movies, Romantic Movies",Movie,0.0
+s6424,1345,auto,Carrie (1976),Carrie,100.0,0.25,1976,"Classic Movies, Cult Movies, Horror Movies",Movie,0.0
+s6428,49272,auto,Casino Royale (2006),Casino Royale,100.0,0.67,2006,Action & Adventure,Movie,0.0
+s6432,971,auto,Cat on a Hot Tin Roof (1958),Cat on a Hot Tin Roof,100.0,1.0,1958,"Classic Movies, Dramas",Movie,0.0
+s6438,3594,auto,Center Stage (2000),Center Stage,100.0,0.5,2000,Dramas,Movie,0.0
+s6447,30793,auto,Charlie and the Chocolate Factory (2005),Charlie and the Chocolate Factory,100.0,0.25,2005,"Children & Family Movies, Comedies",Movie,81.2
+s6449,2137,auto,Charlotte's Web (1973),Charlotte's Web,100.0,0.5,1973,"Children & Family Movies, Classic Movies",Movie,0.0
+s6451,1639,auto,Chasing Amy (1997),Chasing Amy,100.0,0.33,1997,"Comedies, Cult Movies, Dramas",Movie,0.0
+s6467,40339,auto,Chicken Little (2005),Chicken Little,100.0,0.17,2005,"Children & Family Movies, Comedies",Movie,82.8
+s6474,7247,auto,Chitty Chitty Bang Bang (1968),Chitty Chitty Bang Bang,100.0,0.2,1968,"Children & Family Movies, Classic Movies, Comedies",Movie,0.0
+s6481,8978,auto,Christmas with the Kranks (2004),Christmas with the Kranks,100.0,0.5,2004,"Children & Family Movies, Comedies",Movie,75.0
+s6487,72165,auto,Cirque du Freak: The Vampire's Assistant (2009),Cirque du Freak: The Vampire's Assistant,100.0,0.57,2009,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s6489,6016,auto,City of God (Cidade de Deus) (2002),City of God,100.0,0.2,2002,"Dramas, Independent Movies, International Movies",Movie,77.8
+s6493,76175,auto,Clash of the Titans (2010),Clash of the Titans,100.0,0.6,2010,"Action & Adventure, Sci-Fi & Fantasy",Movie,84.2
+s6498,45672,auto,Click (2006),Click,100.0,0.17,2006,"Comedies, Sci-Fi & Fantasy",Movie,0.0
+s6502,97752,auto,Cloud Atlas (2012),Cloud Atlas,100.0,0.25,2012,"Action & Adventure, Cult Movies, Dramas",Movie,0.0
+s6504,57368,auto,Cloverfield (2008),Cloverfield,100.0,0.29,2008,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s6511,31225,auto,Coach Carter (2005),Coach Carter,100.0,1.0,2005,"Dramas, Sports Movies",Movie,0.0
+s6517,139857,auto,Colonia (2016),Colonia,100.0,0.0,2015,"Dramas, Independent Movies, International Movies",Movie,0.0
+s6527,145839,auto,Concussion (2015),Concussion,100.0,1.0,2013,"Dramas, Independent Movies, LGBTQ Movies",Movie,0.0
+s6534,1276,auto,Cool Hand Luke (1967),Cool Hand Luke,100.0,1.0,1967,"Classic Movies, Dramas",Movie,0.0
+s6537,66097,auto,Coraline (2009),Coraline,100.0,0.0,2009,Children & Family Movies,Movie,0.0
+s6541,33166,auto,Crash (2004),Crash,100.0,0.5,2004,"Dramas, Independent Movies",Movie,80.0
+s6544,3996,auto,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)","Crouching Tiger, Hidden Dragon",100.0,0.5,2000,"Action & Adventure, International Movies, Romantic Movies",Movie,75.0
+s6551,6338,auto,Daddy Day Care (2003),Daddy Day Care,100.0,0.5,2003,"Children & Family Movies, Comedies",Movie,0.0
+s6556,106100,auto,Dallas Buyers Club (2013),Dallas Buyers Club,100.0,1.0,2013,"Dramas, Independent Movies, LGBTQ Movies",Movie,0.0
+s6563,1438,auto,Dante's Peak (1997),Dante's Peak,100.0,0.33,1997,Action & Adventure,Movie,0.0
+s6567,139052,auto,Dark Places (2015),Dark Places,100.0,0.67,2015,"Dramas, International Movies, Thrillers",Movie,0.0
+s6571,3374,auto,Daughters of the Dust (1991),Daughters of the Dust,100.0,1.0,1991,"Classic Movies, Dramas, Independent Movies",Movie,0.0
+s6584,53956,auto,Death at a Funeral (2007),Death at a Funeral,100.0,,2010,Comedies,Movie,100.0
+s6610,5872,auto,Die Another Day (2002),Die Another Day,100.0,0.67,2002,Action & Adventure,Movie,0.0
+s6613,79428,auto,Dinner for Schmucks (2010),Dinner for Schmucks,100.0,,2010,Comedies,Movie,0.0
+s6618,70286,auto,District 9 (2009),District 9,100.0,0.17,2009,"Action & Adventure, International Movies, Sci-Fi & Fantasy",Movie,100.0
+s6620,2067,auto,Doctor Zhivago (1965),Doctor Zhivago,100.0,0.67,1965,"Classic Movies, Dramas, Romantic Movies",Movie,0.0
+s6627,89028,auto,Don't Be Afraid of the Dark (2010),Don't Be Afraid of the Dark,100.0,0.5,2010,Horror Movies,Movie,0.0
+s6634,1466,auto,Donnie Brasco (1997),Donnie Brasco,100.0,0.33,1997,"Dramas, Thrillers",Movie,0.0
+s6635,37380,auto,Doom (2005),Doom,100.0,0.6,2005,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Movie,75.0
+s6638,64575,auto,Doubt (2008),Doubt,100.0,0.5,2008,"Dramas, Faith & Spirituality",Movie,0.0
+s6642,653,auto,Dragonheart (1996),Dragonheart,100.0,0.75,1996,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s6643,128842,auto,Dragonheart 3: The Sorcerer's Curse (2015),Dragonheart 3: The Sorcerer,100.0,0.75,2015,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s6644,117646,auto,Dragonheart 2: A New Beginning (2000),Dragonheart: A New Beginning,100.0,0.43,2000,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s6656,6482,auto,Dumb and Dumberer: When Harry Met Lloyd (2003),Dumb and Dumberer: When Harry Met Lloyd,100.0,,2003,Comedies,Movie,0.0
+s6663,80549,auto,Easy A (2010),Easy A,100.0,0.5,2010,"Comedies, Romantic Movies",Movie,0.0
+s6665,80551,auto,Eat Pray Love (2010),Eat Pray Love,100.0,1.0,2010,"Dramas, Romantic Movies",Movie,0.0
+s6666,26471,auto,Eddie Murphy Delirious (1983),Eddie Murphy: Delirious,100.0,0.5,1983,Stand-Up Comedy,Movie,0.0
+s6693,31445,auto,Employee of the Month (2004),Employee of the Month,100.0,0.0,2006,"Comedies, Romantic Movies",Movie,100.0
+s6699,108729,auto,Enemy (2013),Enemy,100.0,0.5,2013,"Independent Movies, Thrillers",Movie,100.0
+s6702,7482,auto,Enter the Dragon (1973),Enter the Dragon,100.0,0.33,1973,"Action & Adventure, Classic Movies",Movie,76.9
+s6704,5903,auto,Equilibrium (2002),Equilibrium,100.0,0.33,2002,"Action & Adventure, Dramas, Sci-Fi & Fantasy",Movie,0.0
+s6711,53993,auto,Evan Almighty (2007),Evan Almighty,100.0,0.0,2007,"Children & Family Movies, Comedies, Faith & Spirituality",Movie,0.0
+s6712,1590,auto,Event Horizon (1997),Event Horizon,100.0,0.5,1997,"Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s6716,4343,auto,Evolution (2001),Evolution,100.0,0.33,2001,"Comedies, Sci-Fi & Fantasy",Movie,81.8
+s6717,115713,auto,Ex Machina (2015),Ex Machina,100.0,0.33,2015,"Dramas, Independent Movies, International Movies",Movie,0.0
+s6720,494,auto,Executive Decision (1996),Executive Decision,100.0,0.67,1996,Action & Adventure,Movie,0.0
+s6723,4224,auto,Exit Wounds (2001),Exit Wounds,100.0,0.33,2001,Action & Adventure,Movie,0.0
+s6736,1754,auto,Fallen (1998),Fallen,100.0,0.25,1998,Thrillers,Movie,100.0
+s6747,4857,auto,Fiddler on the Roof (1971),Fiddler on the Roof,100.0,1.0,1971,"Classic Movies, Dramas, Music & Musicals",Movie,0.0
+s6754,3409,auto,Final Destination (2000),Final Destination,100.0,0.33,2000,"Cult Movies, Horror Movies, Thrillers",Movie,100.0
+s6756,43679,auto,Final Destination 3 (2006),Final Destination 3,100.0,0.33,2006,Horror Movies,Movie,100.0
+s6758,120130,auto,Into the Forest of Fireflies' Light (2011),Fireflies,100.0,0.33,2013,"Dramas, Independent Movies, International Movies",Movie,0.0
+s6766,135803,auto,Five Element Ninjas (1982),Five Elements Ninjas,97.4,0.5,1982,"Action & Adventure, International Movies",Movie,0.0
+s6785,1301,auto,Forbidden Planet (1956),Forbidden Planet,100.0,0.2,1956,"Action & Adventure, Classic Movies, Sci-Fi & Fantasy",Movie,0.0
+s6791,64032,auto,Four Christmases (2008),Four Christmases,100.0,0.0,2008,"Comedies, Romantic Movies",Movie,0.0
+s6793,357,auto,Four Weddings and a Funeral (1994),Four Weddings and a Funeral,100.0,,1994,"Classic Movies, Comedies, International Movies",Movie,100.0
+s6794,52604,auto,Fracture (2007),Fracture,100.0,0.5,2007,"Dramas, Thrillers",Movie,0.0
+s6795,102800,auto,Frances Ha (2012),Frances Ha,100.0,0.5,2012,"Comedies, Dramas, Independent Movies",Movie,0.0
+s6805,66783,auto,Friday the 13th (2009),Friday the 13th,100.0,1.0,2009,Horror Movies,Movie,0.0
+s6809,74851,auto,From Paris with Love (2010),From Paris with Love,100.0,0.33,2010,"Action & Adventure, International Movies",Movie,75.7
+s6814,60943,auto,Frozen River (2008),Frozen River,100.0,1.0,2008,"Dramas, Independent Movies",Movie,100.0
+s6819,70697,auto,G-Force (2009),G-Force,100.0,0.25,2009,"Children & Family Movies, Comedies",Movie,83.3
+s6827,5956,auto,Gangs of New York (2002),Gangs of New York,100.0,0.5,2002,Dramas,Movie,78.6
+s6840,78209,auto,Get Him to the Greek (2010),Get Him to the Greek,100.0,0.0,2010,"Comedies, Music & Musicals",Movie,0.0
+s6843,60126,auto,Get Smart (2008),Get Smart,100.0,0.33,2008,"Action & Adventure, Comedies",Movie,0.0
+s6847,129779,auto,Ghost in the Shell Arise - Border 1: Ghost Pain (2013),Ghost Pain,100.0,0.5,2013,"Action & Adventure, Anime Features, International Movies",Movie,0.0
+s6848,51077,auto,Ghost Rider (2007),Ghost Rider,100.0,0.4,2007,"Action & Adventure, Sci-Fi & Fantasy",Movie,87.0
+s6851,139859,auto,Ghost in the Shell Arise - Border 2: Ghost Whispers (2013),Ghost Whispers,100.0,0.4,2013,"Action & Adventure, Anime Features, International Movies",Movie,76.9
+s6854,938,auto,Gigi (1958),Gigi,100.0,1.0,1958,"Classic Movies, Comedies, Music & Musicals",Movie,0.0
+s6857,109282,auto,GLOW: The Story of the Gorgeous Ladies of Wrestling (2012),GLOW: The Story of the Gorgeous Ladies of Wrestling,100.0,1.0,2012,"Documentaries, Sports Movies",Movie,0.0
+s6862,110603,auto,God's Not Dead (2014),God's Not Dead,100.0,1.0,2014,"Dramas, Faith & Spirituality",Movie,0.0
+s6867,10,auto,GoldenEye (1995),GoldenEye,100.0,0.67,1995,Action & Adventure,Movie,0.0
+s6879,39292,auto,"Good Night, and Good Luck. (2005)","Good Night, and Good Luck",100.0,0.5,2005,Dramas,Movie,75.0
+s6881,1213,auto,Goodfellas (1990),GoodFellas,100.0,0.5,1990,"Classic Movies, Dramas",Movie,0.0
+s6883,93443,auto,Goon (2011),Goon,100.0,,2011,"Comedies, Sports Movies",Movie,75.0
+s6885,5013,auto,Gosford Park (2001),Gosford Park,100.0,0.33,2001,"Comedies, Dramas, International Movies",Movie,0.0
+s6887,6952,auto,Gothika (2003),Gothika,100.0,1.0,2003,"Horror Movies, Thrillers",Movie,0.0
+s6889,64614,auto,Gran Torino (2008),Gran Torino,100.0,0.5,2008,Dramas,Movie,0.0
+s6894,1380,auto,Grease (1978),Grease,100.0,0.33,1978,"Classic Movies, Comedies, Music & Musicals",Movie,0.0
+s6910,52975,auto,Hairspray (2007),Hairspray,100.0,0.25,2007,"Children & Family Movies, Comedies, Music & Musicals",Movie,0.0
+s6914,8045,auto,Hamburger Hill (1987),Hamburger Hill,100.0,0.5,1987,"Action & Adventure, Dramas",Movie,0.0
+s6926,142509,auto,Hardcore Henry (2015),Hardcore Henry,100.0,0.75,2015,"Action & Adventure, International Movies, Sci-Fi & Fantasy",Movie,0.0
+s6928,59022,auto,Harold & Kumar Escape from Guantanamo Bay (2008),Harold & Kumar Escape from Guantanamo Bay,100.0,,2008,"Comedies, Cult Movies",Movie,0.0
+s6929,8807,auto,Harold and Kumar Go to White Castle (2004),Harold & Kumar Go to White Castle,100.0,,2004,"Comedies, Cult Movies",Movie,0.0
+s6944,92008,auto,Haywire (2011),Haywire,100.0,0.33,2011,Action & Adventure,Movie,0.0
+s6948,2775,auto,Head On (1998),Head On,100.0,1.0,1998,"Dramas, Independent Movies, LGBTQ Movies",Movie,0.0
+s6950,4228,auto,Heartbreakers (2001),Heartbreakers,100.0,0.33,2001,"Comedies, Romantic Movies",Movie,0.0
+s6957,161582,auto,Hell or High Water (2016),Hell or High Water,100.0,0.5,2016,"Dramas, Independent Movies",Movie,0.0
+s6958,7373,auto,Hellboy (2004),Hellboy,100.0,0.6,2004,"Action & Adventure, Cult Movies, Sci-Fi & Fantasy",Movie,100.0
+s6959,106920,auto,Her (2013),Her,100.0,0.75,2013,"Dramas, Romantic Movies, Sci-Fi & Fantasy",Movie,100.0
+s6978,31685,auto,Hitch (2005),Hitch,100.0,0.5,2005,"Comedies, Romantic Movies",Movie,83.3
+s6998,114707,auto,Horns (2014),Horns,100.0,0.2,2013,"Dramas, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s7006,54256,auto,Hot Rod (2007),Hot Rod,100.0,,2007,"Comedies, Sports Movies",Movie,0.0
+s7010,96917,auto,House at the End of the Street (2012),House at the End of the Street,100.0,1.0,2012,"Horror Movies, Thrillers",Movie,80.0
+s7014,3988,auto,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),How the Grinch Stole Christmas,100.0,0.33,2000,"Children & Family Movies, Comedies",Movie,75.0
+s7017,143896,auto,How To Change The World (2015),How to Change the World,100.0,1.0,2015,"Documentaries, International Movies",Movie,0.0
+s7019,46,auto,How to Make an American Quilt (1995),How to Make an American Quilt,100.0,1.0,1995,"Dramas, Romantic Movies",Movie,84.2
+s7022,102058,auto,Hulk Vs. (2009),Hulk Vs.,100.0,0.0,2009,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s703,97921,auto,Silver Linings Playbook (2012),Silver Linings Playbook,100.0,0.5,2012,"Comedies, Dramas, Independent Movies",Movie,0.0
+s7033,34271,auto,Hustle & Flow (2005),Hustle & Flow,100.0,0.33,2005,"Dramas, Independent Movies, Music & Musicals",Movie,0.0
+s7044,157407,auto,I Am Wrath (2016),I Am Wrath,100.0,0.4,2016,"Action & Adventure, Dramas",Movie,0.0
+s7045,89388,auto,I Don't Know How She Does It (2011),I Don't Know How She Does It,100.0,,2011,Comedies,Movie,0.0
+s7053,99750,auto,"Iceman, The (2012)",Iceman,100.0,0.0,2014,"Action & Adventure, International Movies, Sci-Fi & Fantasy",Movie,0.0
+s7056,64116,auto,Igor (2008),Igor,100.0,0.0,2008,Children & Family Movies,Movie,0.0
+s7058,69304,auto,Imagine That (2009),Imagine That,100.0,0.2,2009,"Children & Family Movies, Comedies, Sci-Fi & Fantasy",Movie,0.0
+s7072,1291,auto,Indiana Jones and the Last Crusade (1989),Indiana Jones and the Last Crusade,100.0,0.67,1989,"Action & Adventure, Children & Family Movies, Classic Movies",Movie,0.0
+s7073,1198,auto,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Indiana Jones and the Raiders of the Lost Ark,100.0,0.67,1981,"Action & Adventure, Children & Family Movies, Classic Movies",Movie,80.0
+s7074,2115,auto,Indiana Jones and the Temple of Doom (1984),Indiana Jones and the Temple of Doom,100.0,0.5,1984,"Action & Adventure, Children & Family Movies, Classic Movies",Movie,80.0
+s7078,68157,auto,Inglourious Basterds (2009),Inglourious Basterds,100.0,0.25,2009,Action & Adventure,Movie,0.0
+s7079,65685,auto,Inkheart (2008),Inkheart,100.0,0.4,2008,"Action & Adventure, Children & Family Movies, Sci-Fi & Fantasy",Movie,0.0
+s7088,142424,auto,Into the Forest (2015),Into the Forest,100.0,0.67,2015,"Dramas, International Movies, Sci-Fi & Fantasy",Movie,75.9
+s7092,72733,auto,Invictus (2009),Invictus,100.0,1.0,2009,"Dramas, Sports Movies",Movie,0.0
+s7104,38,auto,It Takes Two (1995),It Takes Two,100.0,0.5,1995,"Children & Family Movies, Comedies",Movie,0.0
+s7114,1729,auto,Jackie Brown (1997),Jackie Brown,100.0,0.67,1997,"Dramas, Thrillers",Movie,0.0
+s7122,4734,auto,Jay and Silent Bob Strike Back (2001),Jay and Silent Bob Strike Back,100.0,,2001,"Comedies, Cult Movies",Movie,0.0
+s7127,112316,auto,Jersey Boys (2014),Jersey Boys,100.0,1.0,2014,"Dramas, Music & Musicals",Movie,0.0
+s7133,93721,auto,Jiro Dreams of Sushi (2011),Jiro Dreams of Sushi,100.0,1.0,2011,Documentaries,Movie,0.0
+s7137,93363,auto,John Carter (2012),John Carter,100.0,0.75,2012,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s7148,70293,auto,Julie & Julia (2009),Julie & Julia,100.0,0.33,2009,"Comedies, Dramas",Movie,0.0
+s7151,34528,auto,Junebug (2005),Junebug,100.0,0.5,2005,"Comedies, Dramas, Independent Movies",Movie,0.0
+s7152,113345,auto,Jupiter Ascending (2015),Jupiter Ascending,100.0,0.75,2015,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s7153,40581,auto,Just Friends (2005),Just Friends,100.0,0.5,2005,"Comedies, Romantic Movies",Movie,75.0
+s7157,5479,auto,K-19: The Widowmaker (2002),K-19: The Widowmaker,100.0,0.75,2002,"Action & Adventure, Dramas",Movie,0.0
+s7171,4992,auto,Kate & Leopold (2001),Kate & Leopold,100.0,0.5,2001,"Comedies, Romantic Movies",Movie,0.0
+s7179,136471,auto,Kevin Hart: Laugh at My Pain (2011),Kevin Hart: Laugh at My Pain,100.0,0.5,2011,Stand-Up Comedy,Movie,0.0
+s7194,72,auto,Kicking and Screaming (1995),Kicking and Screaming,100.0,0.0,1995,"Comedies, Independent Movies, Romantic Movies",Movie,0.0
+s7196,130083,auto,Kidnapping Mr. Heineken (2015),Kidnapping Mr. Heineken,100.0,0.4,2015,"Action & Adventure, Dramas, International Movies",Movie,0.0
+s7198,6874,auto,Kill Bill: Vol. 1 (2003),Kill Bill: Vol. 1,100.0,0.25,2003,Action & Adventure,Movie,93.3
+s7199,7438,auto,Kill Bill: Vol. 2 (2004),Kill Bill: Vol. 2,100.0,0.25,2004,Action & Adventure,Movie,93.3
+s7200,158956,auto,Kill Command (2016),Kill Command,100.0,0.4,2016,"Action & Adventure, Independent Movies, Sci-Fi & Fantasy",Movie,0.0
+s7203,86628,auto,Kill the Irishman (2011),Kill the Irishman,100.0,0.25,2011,"Action & Adventure, Dramas, Independent Movies",Movie,0.0
+s7204,26629,auto,Killer Klowns from Outer Space (1988),Killer Klowns from Outer Space,100.0,0.33,1988,"Comedies, Cult Movies, Horror Movies",Movie,82.1
+s7205,78041,auto,Killers (2010),Killers,100.0,0.25,2010,"Action & Adventure, Comedies, Romantic Movies",Movie,0.0
+s7209,33148,auto,King's Ransom (2005),King's Ransom,100.0,0.0,2005,"Action & Adventure, Comedies",Movie,0.0
+s7211,785,auto,Kingpin (1996),Kingpin,100.0,,1996,"Comedies, Cult Movies, Sports Movies",Movie,75.0
+s7212,116887,auto,Exodus: Gods and Kings (2014),Kings,100.0,0.33,2017,Dramas,Movie,0.0
+s7214,1620,auto,Kiss the Girls (1997),Kiss the Girls,100.0,0.25,1997,Thrillers,Movie,0.0
+s7219,142074,auto,Knock Knock (2015),Knock Knock,100.0,0.67,2015,"Horror Movies, Thrillers",Movie,0.0
+s7221,67197,auto,Knowing (2009),Knowing,100.0,0.33,2009,"Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s7240,31878,auto,Kung Fu Hustle (Gong fu) (2004),Kung Fu Hustle,100.0,0.33,2004,"Action & Adventure, Comedies, Cult Movies",Movie,0.0
+s7245,1856,auto,Kurt & Courtney (1998),Kurt & Courtney,100.0,0.5,1998,"Documentaries, Music & Musicals",Movie,0.0
+s7253,3478,auto,"Bamba, La (1987)",La Bamba,100.0,0.5,1987,"Classic Movies, Dramas, Music & Musicals",Movie,0.0
+s7271,131714,auto,Last Knights (2015),Last Knights,100.0,1.0,2015,Action & Adventure,Movie,0.0
+s7275,73319,auto,Leap Year (2010),Leap Year,100.0,0.5,2010,"Comedies, Romantic Movies",Movie,0.0
+s7283,80615,auto,Legend of the Guardians: The Owls of Ga'Hoole (2010),Legend of the Guardians: The Owls of Ga'Hoole,100.0,0.0,2010,Children & Family Movies,Movie,86.5
+s7299,113159,auto,Life After Beth (2014),Life After Beth,100.0,0.33,2014,"Comedies, Horror Movies, Independent Movies",Movie,0.0
+s7306,265,auto,Like Water for Chocolate (Como agua para chocolate) (1992),Like Water for Chocolate,100.0,0.33,1992,"Classic Movies, Dramas, International Movies",Movie,0.0
+s7317,3979,auto,Little Nicky (2000),Little Nicky,100.0,,2000,Comedies,Movie,75.0
+s7327,2542,auto,"Lock, Stock & Two Smoking Barrels (1998)","Lock, Stock and Two Smoking Barrels",100.0,0.0,1998,"Action & Adventure, Comedies, Independent Movies",Movie,0.0
+s7328,110882,auto,Locke (2013),Locke,100.0,1.0,2013,"Dramas, Independent Movies",Movie,0.0
+s7329,93563,auto,Lockout (2012),Lockout,100.0,0.4,2012,"Action & Adventure, International Movies, Sci-Fi & Fantasy",Movie,0.0
+s7331,2528,auto,Logan's Run (1976),Logan's Run,100.0,0.67,1976,"Action & Adventure, Classic Movies, Cult Movies",Movie,0.0
+s7333,2729,auto,Lolita (1962),Lolita,100.0,1.0,1962,"Classic Movies, Dramas, Romantic Movies",Movie,0.0
+s7355,115667,auto,"Love, Rosie (2014)","Love, Rosie",100.0,0.5,2014,"Comedies, International Movies, Romantic Movies",Movie,100.0
+s7368,3702,auto,Mad Max (1979),Mad Max,100.0,0.67,1979,"Action & Adventure, Classic Movies, Cult Movies",Movie,100.0
+s7391,104129,auto,Man of Tai Chi (2013),Man of Tai Chi,100.0,0.33,2013,"Action & Adventure, Dramas",Movie,0.0
+s7392,132660,auto,Man Up (2015),Man Up,100.0,0.5,2015,"Comedies, International Movies, Romantic Movies",Movie,0.0
+s7400,3079,auto,Mansfield Park (1999),Mansfield Park,100.0,0.33,1999,"Comedies, Dramas, International Movies",Movie,0.0
+s7404,160684,auto,Marauders (2016),Marauders,100.0,0.5,2016,Action & Adventure,Movie,0.0
+s741,110773,auto,"Haunted House 2, A (2014)",A Haunted House 2,100.0,0.5,2014,"Comedies, Horror Movies",Movie,100.0
+s7412,5513,auto,Martin Lawrence Live: Runteldat (2002),Martin Lawrence Live: Runteldat,100.0,0.5,2002,Stand-Up Comedy,Movie,0.0
+s7432,8042,auto,Mean Streets (1973),Mean Streets,100.0,0.5,1973,"Classic Movies, Dramas, Independent Movies",Movie,0.0
+s744,115828,auto,Copenhagen (2014),Copenhagen,100.0,0.67,2014,"Dramas, Independent Movies, Romantic Movies",Movie,0.0
+s7443,1580,auto,Men in Black (a.k.a. MIB) (1997),Men in Black,100.0,0.4,1997,"Action & Adventure, Comedies, Sci-Fi & Fantasy",Movie,75.0
+s7444,5459,auto,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),Men in Black II,100.0,0.4,2002,"Action & Adventure, Comedies, Sci-Fi & Fantasy",Movie,75.0
+s7446,77893,auto,Merantau (2009),Merantau,100.0,0.67,2009,"Action & Adventure, Dramas, International Movies",Movie,0.0
+s7455,130576,auto,Midnight Special (2015),Midnight Special,100.0,0.2,2016,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s7457,63876,auto,Milk (2008),Milk,100.0,1.0,2008,"Dramas, Independent Movies, LGBTQ Movies",Movie,0.0
+s7461,7263,auto,Miracle (2004),Miracle,100.0,0.5,2004,"Children & Family Movies, Dramas, Sports Movies",Movie,0.0
+s7468,90630,auto,Miss Representation (2011),Miss Representation,100.0,1.0,2011,Documentaries,Movie,0.0
+s7478,148709,auto,Mojave (2015),Mojave,100.0,0.5,2015,"Dramas, Independent Movies, Thrillers",Movie,0.0
+s7480,180045,auto,Molly's Game (2017),Molly's Game,100.0,1.0,2017,Dramas,Movie,0.0
+s7482,7154,auto,Mona Lisa Smile (2003),Mona Lisa Smile,100.0,0.5,2003,Dramas,Movie,0.0
+s7483,157200,auto,Money Monster (2016),Money,100.0,0.5,2016,Thrillers,Movie,0.0
+s7485,1604,auto,Money Talks (1997),Money Talks,100.0,0.33,1997,"Action & Adventure, Comedies",Movie,76.2
+s7507,68237,auto,Moon (2009),Moon,100.0,0.4,2009,"Dramas, Independent Movies, Sci-Fi & Fantasy",Movie,100.0
+s7509,150604,auto,Moonwalkers (2015),Moonwalkers,100.0,0.0,2015,"Action & Adventure, Comedies, International Movies",Movie,0.0
+s7516,100083,auto,Movie 43 (2013),Movie 43,100.0,,2013,Comedies,Movie,76.9
+s7518,5449,auto,Mr. Deeds (2002),Mr. Deeds,100.0,0.5,2002,"Comedies, Romantic Movies",Movie,0.0
+s7521,55241,auto,Mr. Woodcock (2007),Mr. Woodcock,100.0,,2007,Comedies,Movie,0.0
+s7524,102194,auto,Mud (2012),Mud,100.0,0.33,2012,"Dramas, Independent Movies",Movie,0.0
+s7527,110297,auto,Muppets Most Wanted (2014),Muppets Most Wanted,100.0,0.0,2014,"Children & Family Movies, Comedies",Movie,100.0
+s7531,26085,auto,Mutiny on the Bounty (1962),Mutiny on the Bounty,100.0,0.5,1962,"Action & Adventure, Classic Movies, Dramas",Movie,0.0
+s7546,158842,auto,My Scientology Movie (2016),My Scientology Movie,100.0,1.0,2015,Documentaries,Movie,76.9
+s7547,69712,auto,My Sister's Keeper (2009),My Sister's Keeper,100.0,1.0,2009,Dramas,Movie,76.2
+s7554,45666,auto,Nacho Libre (2006),Nacho Libre,100.0,,2006,"Comedies, Sports Movies",Movie,0.0
+s7563,3208,auto,Loaded Weapon 1 (National Lampoon's Loaded Weapon 1) (1993),National Lampoon's Loaded Weapon 1,100.0,0.33,1993,"Action & Adventure, Comedies, Independent Movies",Movie,75.0
+s7565,8972,auto,National Treasure (2004),National Treasure,100.0,0.33,2004,"Action & Adventure, Children & Family Movies",Movie,100.0
+s7586,115569,auto,Nightcrawler (2014),Nightcrawler,100.0,0.67,2014,"Dramas, Independent Movies, Thrillers",Movie,0.0
+s7593,54276,auto,No Reservations (2007),No Reservations,100.0,0.33,2007,"Comedies, Romantic Movies",Movie,0.0
+s7621,27,auto,Now and Then (1995),Now and Then,100.0,0.5,1995,Dramas,Movie,0.0
+s7632,108981,auto,Nymphomaniac: Volume II (2013),Nymphomaniac: Volume II,100.0,0.5,2013,"Dramas, Independent Movies, International Movies",Movie,97.7
+s7636,76054,auto,Oceans (Océans) (2009),Océans,100.0,0.5,2009,"Documentaries, International Movies",Movie,0.0
+s7639,53322,auto,Ocean's Thirteen (2007),Ocean's Thirteen,100.0,0.0,2007,"Action & Adventure, Comedies",Movie,0.0
+s7640,8984,auto,Ocean's Twelve (2004),Ocean's Twelve,100.0,0.2,2004,"Action & Adventure, Comedies",Movie,85.7
+s7660,1209,auto,Once Upon a Time in the West (C'era una volta il West) (1968),Once Upon a Time in the West,100.0,0.25,1968,"Action & Adventure, Classic Movies, International Movies",Movie,0.0
+s7668,102684,auto,Only God Forgives (2013),Only God Forgives,100.0,0.5,2013,"Cult Movies, Independent Movies, Thrillers",Movie,0.0
+s7670,48414,auto,Open Season (2006),Open Season,100.0,0.25,2006,"Children & Family Movies, Comedies",Movie,0.0
+s7696,5786,auto,Paid in Full (2002),Paid in Full,100.0,0.67,2002,"Action & Adventure, Dramas",Movie,0.0
+s7705,71379,auto,Paranormal Activity (2009),Paranormal Activity,100.0,1.0,2007,"Horror Movies, Thrillers",Movie,100.0
+s7709,1192,auto,Paris Is Burning (1990),Paris Is Burning,100.0,1.0,1990,"Classic Movies, Cult Movies, Documentaries",Movie,0.0
+s7712,7017,auto,Passenger 57 (1992),Passenger 57,100.0,0.33,1992,Action & Adventure,Movie,0.0
+s7715,3256,auto,Patriot Games (1992),Patriot Games,100.0,0.2,1992,Action & Adventure,Movie,0.0
+s7717,65802,auto,Paul Blart: Mall Cop (2009),Paul Blart: Mall Cop,100.0,0.25,2009,"Action & Adventure, Comedies",Movie,100.0
+s7725,58347,auto,Penelope (2006),Penelope,100.0,0.25,2006,"Children & Family Movies, Comedies, Romantic Movies",Movie,0.0
+s7736,508,auto,Philadelphia (1993),Philadelphia,100.0,1.0,1993,"Classic Movies, Dramas, LGBTQ Movies",Movie,0.0
+s7752,1090,auto,Platoon (1986),Platoon,100.0,0.25,1986,"Action & Adventure, Classic Movies, Dramas",Movie,0.0
+s7756,2088,auto,Popeye (1980),Popeye,100.0,0.2,1980,"Action & Adventure, Children & Family Movies, Comedies",Movie,0.0
+s777,4721,auto,American Outlaws (2001),American Outlaws,100.0,0.25,2001,Action & Adventure,Movie,80.0
+s7794,628,auto,Primal Fear (1996),Primal Fear,100.0,0.5,1996,"Dramas, Thrillers",Movie,100.0
+s780,3593,auto,Battlefield Earth (2000),Battlefield Earth,100.0,0.5,2000,"Action & Adventure, Cult Movies, Sci-Fi & Fantasy",Movie,0.0
+s7803,296,auto,Pulp Fiction (1994),Pulp Fiction,100.0,0.25,1994,"Classic Movies, Cult Movies, Dramas",Movie,0.0
+s7810,63113,auto,Quantum of Solace (2008),Quantum of Solace,100.0,0.67,2008,Action & Adventure,Movie,0.0
+s7817,70305,auto,Race to Witch Mountain (2009),Race to Witch Mountain,100.0,0.2,2009,Children & Family Movies,Movie,0.0
+s7818,62344,auto,Rachel Getting Married (2008),Rachel Getting Married,100.0,0.5,2008,"Dramas, Independent Movies",Movie,0.0
+s7821,1228,auto,Raging Bull (1980),Raging Bull,100.0,1.0,1980,"Classic Movies, Dramas, Sports Movies",Movie,0.0
+s783,987,auto,Bliss (1997),Bliss,100.0,1.0,1997,"Dramas, Romantic Movies",Movie,0.0
+s7840,1103,auto,Rebel Without a Cause (1955),Rebel Without a Cause,100.0,1.0,1955,"Classic Movies, Dramas",Movie,0.0
+s7845,3441,auto,Red Dawn (1984),Red Dawn,100.0,0.25,1984,"Action & Adventure, Cult Movies",Movie,0.0
+s785,128908,auto,Cloudburst (2011),Cloudburst,100.0,0.33,2011,"Comedies, Dramas, Independent Movies",Movie,0.0
+s7855,75341,auto,Remember Me (2010),Remember Me,100.0,1.0,2010,"Dramas, Romantic Movies",Movie,0.0
+s7858,80363,auto,Resident Evil: Afterlife (2010),Resident Evil: Afterlife,100.0,0.5,2010,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s7864,113416,auto,Revenge of the Green Dragons (2014),Revenge of the Green Dragons,100.0,0.5,2014,"Action & Adventure, Dramas, Independent Movies",Movie,0.0
+s7869,61697,auto,Righteous Kill (2008),Righteous Kill,100.0,0.25,2008,"Dramas, Thrillers",Movie,0.0
+s788,6196,auto,Cradle 2 the Grave (2003),Cradle 2 the Grave,100.0,0.2,2003,Action & Adventure,Movie,0.0
+s7880,1954,auto,Rocky (1976),Rocky,100.0,0.33,1976,"Action & Adventure, Classic Movies, Dramas",Movie,100.0
+s7882,2410,auto,Rocky III (1982),Rocky III,100.0,0.5,1982,"Dramas, Sports Movies",Movie,94.1
+s7883,2411,auto,Rocky IV (1985),Rocky IV,100.0,0.5,1985,"Dramas, Sports Movies",Movie,82.4
+s7884,2412,auto,Rocky V (1990),Rocky V,100.0,0.5,1990,"Dramas, Sports Movies",Movie,0.0
+s789,4885,auto,Domestic Disturbance (2001),Domestic Disturbance,100.0,1.0,2001,Thrillers,Movie,0.0
+s7890,140174,auto,Room (2015),Room,100.0,1.0,2015,"Dramas, Independent Movies",Movie,100.0
+s7895,2160,auto,Rosemary's Baby (1968),Rosemary's Baby,100.0,0.67,1968,"Classic Movies, Horror Movies, Thrillers",Movie,0.0
+s7896,2231,auto,Rounders (1998),Rounders,100.0,1.0,1998,Dramas,Movie,0.0
+s7901,112,auto,Rumble in the Bronx (Hont faan kui) (1995),Rumble in the Bronx,100.0,0.5,1995,"Action & Adventure, Comedies, International Movies",Movie,0.0
+s7902,42007,auto,Rumor Has It... (2005),Rumor Has It,100.0,0.33,2005,"Comedies, Romantic Movies",Movie,0.0
+s7904,2724,auto,Runaway Bride (1999),Runaway Bride,100.0,0.5,1999,"Comedies, Romantic Movies",Movie,0.0
+s7913,6595,auto,S.W.A.T. (2003),S.W.A.T.,100.0,0.33,2003,Action & Adventure,Movie,0.0
+s792,60753,auto,Felon (2008),Felon,100.0,0.25,2008,"Action & Adventure, Dramas",Movie,0.0
+s7921,95088,auto,Safety Not Guaranteed (2012),Safety Not Guaranteed,100.0,0.0,2012,"Comedies, Independent Movies, Romantic Movies",Movie,0.0
+s793,80586,auto,Flipped (2010),Flipped,100.0,0.67,2010,"Comedies, Dramas, Romantic Movies",Movie,0.0
+s794,1457,auto,Fools Rush In (1997),Fools Rush In,100.0,0.33,1997,"Comedies, Romantic Movies",Movie,76.2
+s7950,107141,auto,Saving Mr. Banks (2013),Saving Mr. Banks,100.0,0.5,2013,"Comedies, Dramas",Movie,0.0
+s7956,3785,auto,Scary Movie (2000),Scary Movie,100.0,0.5,2000,"Comedies, Horror Movies",Movie,100.0
+s7958,527,auto,Schindler's List (1993),Schindler's List,100.0,0.5,1993,"Classic Movies, Dramas",Movie,0.0
+s7959,3423,auto,School Daze (1988),School Daze,100.0,1.0,1988,"Comedies, Dramas",Movie,75.0
+s7961,79702,auto,Scott Pilgrim vs. the World (2010),Scott Pilgrim vs. the World,100.0,0.17,2010,"Action & Adventure, Comedies, Cult Movies",Movie,0.0
+s7963,3273,auto,Scream 3 (2000),Scream 3,100.0,0.25,2000,Horror Movies,Movie,87.5
+s7965,529,auto,Searching for Bobby Fischer (1993),Searching for Bobby Fischer,100.0,0.5,1993,"Children & Family Movies, Classic Movies, Dramas",Movie,0.0
+s7966,96488,auto,Searching for Sugar Man (2012),Searching for Sugar Man,100.0,0.5,2012,"Documentaries, International Movies, Music & Musicals",Movie,0.0
+s7967,83480,auto,Season of the Witch (2011),Season of the Witch,100.0,0.4,2011,"Action & Adventure, Sci-Fi & Fantasy",Movie,76.5
+s7970,140525,auto,Secret in Their Eyes (2015),Secret in Their Eyes,100.0,0.25,2015,"Dramas, Thrillers",Movie,0.0
+s798,5014,auto,I Am Sam (2001),I Am Sam,100.0,1.0,2001,Dramas,Movie,0.0
+s7982,85774,auto,Senna (2010),Senna,100.0,1.0,2010,"Documentaries, International Movies, Sports Movies",Movie,0.0
+s799,1477,auto,Love Jones (1997),Love Jones,100.0,0.0,1997,"Comedies, Dramas, Independent Movies",Movie,0.0
+s7999,89427,auto,Shark Night 3D (2011),Shark Night,100.0,0.5,2011,Horror Movies,Movie,0.0
+s800,30707,auto,Million Dollar Baby (2004),Million Dollar Baby,100.0,1.0,2004,"Dramas, Sports Movies",Movie,84.8
+s8002,59549,auto,Shelter (2007),Shelter,100.0,0.0,2010,"Horror Movies, Thrillers",Movie,100.0
+s8010,104944,auto,Short Term 12 (2013),Short Term 12,100.0,1.0,2013,"Dramas, Independent Movies",Movie,0.0
+s8019,97785,auto,Silent Hill: Revelation 3D (2012),Silent Hill: Revelation,100.0,0.33,2012,Horror Movies,Movie,0.0
+s8025,148956,auto,How to Be Single (2016),Single,100.0,0.5,2015,"Comedies, International Movies, Romantic Movies",Movie,80.0
+s803,72489,auto,Ninja Assassin (2009),Ninja Assassin,100.0,0.2,2009,Action & Adventure,Movie,100.0
+s8036,82095,auto,Skyline (2010),Skyline,100.0,0.2,2010,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s8040,540,auto,Sliver (1993),Sliver,100.0,1.0,1993,Thrillers,Movie,0.0
+s8042,133802,auto,Slow West (2015),Slow West,100.0,0.2,2015,"Action & Adventure, Dramas, International Movies",Movie,0.0
+s8043,1920,auto,Small Soldiers (1998),Small Soldiers,100.0,0.14,1998,"Action & Adventure, Comedies, Sci-Fi & Fantasy",Movie,0.0
+s8044,58806,auto,Smart People (2008),Smart People,100.0,0.33,2008,"Comedies, Dramas, Independent Movies",Movie,0.0
+s8052,187595,auto,Solo: A Star Wars Story (2018),Solo: A Star Wars Story,100.0,0.8,2018,"Action & Adventure, Children & Family Movies, Sci-Fi & Fantasy",Movie,87.2
+s8056,7149,auto,Something's Gotta Give (2003),Something's Gotta Give,100.0,0.33,2003,"Comedies, Romantic Movies",Movie,81.8
+s8057,120783,auto,Son of a Gun (2014),Son of a Gun,100.0,0.5,2014,"Action & Adventure, Dramas, Independent Movies",Movie,75.0
+s8060,86815,auto,Soul Surfer (2011),Soul Surfer,100.0,0.5,2011,"Dramas, Faith & Spirituality, Sports Movies",Movie,0.0
+s8072,142488,auto,Spotlight (2015),Spotlight,100.0,0.0,2015,"Dramas, Independent Movies",Movie,0.0
+s8075,4232,auto,Spy Kids (2001),Spy Kids,100.0,0.25,2001,"Children & Family Movies, Comedies",Movie,100.0
+s8081,149590,auto,Standoff (2016),Standoff,100.0,0.0,2015,Action & Adventure,Movie,0.0
+s8088,60756,auto,Step Brothers (2008),Step Brothers,100.0,,2008,Comedies,Movie,100.0
+s810,7325,auto,Starsky & Hutch (2004),Starsky & Hutch,100.0,0.2,2004,"Action & Adventure, Comedies",Movie,0.0
+s8102,46976,auto,Stranger than Fiction (2006),Stranger than Fiction,100.0,0.25,2006,"Comedies, Romantic Movies",Movie,0.0
+s8104,1188,auto,Strictly Ballroom (1992),Strictly Ballroom,100.0,0.5,1992,"Classic Movies, Comedies, Romantic Movies",Movie,0.0
+s8106,1663,auto,Stripes (1981),Stripes,100.0,,1981,"Classic Movies, Comedies, Cult Movies",Movie,0.0
+s8107,762,auto,Striptease (1996),Striptease,100.0,0.0,1996,"Comedies, Dramas",Movie,0.0
+s8127,54503,auto,Superbad (2007),Superbad,100.0,,2007,"Comedies, Cult Movies",Movie,76.9
+s8129,46530,auto,Superman Returns (2006),Superman Returns,100.0,0.75,2006,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s813,4344,auto,Swordfish (2001),Swordfish,100.0,0.25,2001,Action & Adventure,Movie,0.0
+s8131,2907,auto,Superstar (1999),Superstar,100.0,,1999,Comedies,Movie,0.0
+s8139,56757,auto,Sweeney Todd: The Demon Barber of Fleet Street (2007),Sweeney Todd: The Demon Barber of Fleet Street,100.0,0.75,2007,"Dramas, Horror Movies, Music & Musicals",Movie,100.0
+s8141,159415,auto,Swiss Army Man (2016),Swiss Army Man,100.0,0.33,2016,"Comedies, Dramas, Independent Movies",Movie,0.0
+s815,5745,auto,"Four Seasons, The (1981)",The Four Seasons,100.0,0.0,1981,"Comedies, Romantic Movies",Movie,0.0
+s8167,6537,auto,Terminator 3: Rise of the Machines (2003),Terminator 3: Rise of the Machines,100.0,0.75,2003,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s8168,68791,auto,Terminator Salvation (2009),Terminator Salvation,100.0,0.6,2009,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s817,27821,auto,"Interpreter, The (2005)",The Interpreter,100.0,0.5,2005,Thrillers,Movie,0.0
+s818,159077,auto,The Meddler (2016),The Meddler,100.0,0.5,2015,"Comedies, Dramas, Independent Movies",Movie,0.0
+s8180,160730,auto,The Adderall Diaries (2015),The Adderall Diaries,100.0,0.67,2015,"Dramas, Thrillers",Movie,0.0
+s8184,33681,auto,"Adventures of Sharkboy and Lavagirl 3-D, The (2005)",The Adventures of Sharkboy and Lavagirl,100.0,0.25,2005,Children & Family Movies,Movie,0.0
+s8185,90746,auto,"Adventures of Tintin, The (2011)",The Adventures of Tintin,100.0,0.0,2011,Children & Family Movies,Movie,78.8
+s8188,11,auto,"American President, The (1995)",The American President,100.0,0.67,1995,"Comedies, Dramas, Romantic Movies",Movie,84.2
+s8189,33085,auto,"Amityville Horror, The (2005)",The Amityville Horror,100.0,0.5,2005,Horror Movies,Movie,0.0
+s819,1353,auto,"Mirror Has Two Faces, The (1996)",The Mirror Has Two Faces,100.0,0.67,1996,"Comedies, Dramas, Romantic Movies",Movie,0.0
+s8196,108949,auto,"Art of the Steal, The (2013)",The Art of the Steal,100.0,0.0,2013,"Action & Adventure, Comedies, Independent Movies",Movie,84.8
+s8197,3879,auto,"Art of War, The (2000)",The Art of War,100.0,0.33,2000,Action & Adventure,Movie,80.0
+s820,3508,auto,"Outlaw Josey Wales, The (1976)",The Outlaw Josey Wales,100.0,0.4,1976,"Action & Adventure, Classic Movies",Movie,0.0
+s8218,73321,auto,"Book of Eli, The (2010)",The Book of Eli,100.0,0.4,2010,"Action & Adventure, Sci-Fi & Fantasy",Movie,77.8
+s8220,75805,auto,"Bounty Hunter, The (2010)",The Bounty Hunter,100.0,0.5,2010,"Action & Adventure, Comedies, Romantic Movies",Movie,0.0
+s8224,55080,auto,"Brave One, The (2007)",The Brave One,100.0,0.67,2007,"Dramas, Thrillers",Movie,0.0
+s8227,45501,auto,"Break-Up, The (2006)",The Break-Up,100.0,0.67,2006,"Comedies, Dramas, Romantic Movies",Movie,100.0
+s8228,143385,auto,Bridge of Spies (2015),The Bridge,100.0,0.33,2017,"Dramas, International Movies, Romantic Movies",Movie,0.0
+s8229,36401,auto,"Brothers Grimm, The (2005)",The Brothers Grimm,100.0,0.14,2005,"Action & Adventure, Sci-Fi & Fantasy",Movie,76.2
+s8230,56587,auto,"Bucket List, The (2007)",The Bucket List,100.0,0.5,2007,"Comedies, Dramas",Movie,0.0
+s8237,114925,auto,"Captive, The (2014)",The Captive,100.0,0.67,2014,"Dramas, Thrillers",Movie,0.0
+s8250,8494,auto,"Cincinnati Kid, The (1965)",The Cincinnati Kid,100.0,1.0,1965,"Classic Movies, Dramas",Movie,0.0
+s8252,82534,auto,"Company Men, The (2010)",The Company Men,100.0,1.0,2010,"Dramas, Independent Movies",Movie,0.0
+s8257,724,auto,"Craft, The (1996)",The Craft,100.0,0.5,1996,"Horror Movies, Thrillers",Movie,0.0
+s8259,101142,auto,"Croods, The (2013)",The Croods,100.0,0.0,2013,"Children & Family Movies, Comedies",Movie,0.0
+s8260,353,auto,"Crow, The (1994)",The Crow,100.0,0.33,1994,"Action & Adventure, Cult Movies, Sci-Fi & Fantasy",Movie,100.0
+s8262,1094,auto,"Crying Game, The (1992)",The Crying Game,100.0,0.33,1992,"Classic Movies, Independent Movies, Thrillers",Movie,0.0
+s8264,127194,auto,The D Train (2015),The D Train,100.0,,2015,Comedies,Movie,83.3
+s8266,99992,auto,Shadow Dancer (2012),The Dancer,100.0,0.25,2011,"Dramas, International Movies, Romantic Movies",Movie,0.0
+s8267,2140,auto,"Dark Crystal, The (1982)",The Dark Crystal,100.0,0.0,1982,Children & Family Movies,Movie,0.0
+s8273,48516,auto,"Departed, The (2006)",The Departed,100.0,0.67,2006,"Dramas, Thrillers",Movie,0.0
+s8285,34520,auto,"Dukes of Hazzard, The (2005)",The Dukes of Hazzard,100.0,0.67,2005,"Action & Adventure, Comedies",Movie,0.0
+s8289,127114,auto,The End of the Tour (2015),The End of the Tour,100.0,1.0,2015,"Dramas, Independent Movies",Movie,80.0
+s8290,164280,auto,Endless Poetry (2016),The Endless,100.0,0.25,2017,"Independent Movies, Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s8291,4105,auto,"Evil Dead, The (1981)",The Evil Dead,100.0,0.33,1981,"Classic Movies, Cult Movies, Horror Movies",Movie,0.0
+s8297,81932,auto,"Fighter, The (2010)",The Fighter,100.0,1.0,2010,"Dramas, Sports Movies",Movie,76.9
+s8302,830,auto,"First Wives Club, The (1996)",The First Wives Club,100.0,,1996,Comedies,Movie,0.0
+s8304,26399,auto,Five Deadly Venoms (1978),The Five Venoms,100.0,0.5,1978,"Action & Adventure, Cult Movies, International Movies",Movie,0.0
+s8305,355,auto,"Flintstones, The (1994)",The Flintstones,100.0,0.33,1994,"Children & Family Movies, Comedies",Movie,100.0
+s8306,3564,auto,"Flintstones in Viva Rock Vegas, The (2000)",The Flintstones in Viva Rock Vegas,100.0,0.33,2000,"Children & Family Movies, Comedies, Romantic Movies",Movie,0.0
+s8307,7899,auto,Master of the Flying Guillotine (Du bi quan wang da po xue di zi) (1975),The Flying Guillotine,100.0,0.33,1975,"Action & Adventure, Dramas, International Movies",Movie,0.0
+s8313,166946,auto,The Founder (2016),The Founder,100.0,1.0,2016,Dramas,Movie,76.9
+s8326,70565,auto,"Goods: Live Hard, Sell Hard, The (2009)","The Goods: Live Hard, Sell Hard",100.0,,2009,Comedies,Movie,0.0
+s8334,34536,auto,The Great Raid (2005),The Great Raid,100.0,0.5,2005,"Action & Adventure, Dramas",Movie,0.0
+s8336,83349,auto,"Green Hornet, The (2011)",The Green Hornet,100.0,0.17,2011,"Action & Adventure, Comedies",Movie,81.8
+s8353,113275,auto,The Hundred-Foot Journey (2014),The Hundred-Foot Journey,100.0,0.5,2014,"Comedies, Dramas",Movie,0.0
+s8357,69951,auto,"Imaginarium of Doctor Parnassus, The (2009)",The Imaginarium of Doctor Parnassus,100.0,0.2,2009,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s8359,173307,auto,The Gracefield Incident (2015),The Incident,100.0,0.2,2014,"International Movies, Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s8361,187541,auto,Incredibles 2 (2018),The Incredibles 2,100.0,0.25,2018,"Children & Family Movies, Comedies",Movie,0.0
+s8362,60,auto,"Indian in the Cupboard, The (1995)",The Indian in the Cupboard,100.0,0.25,1995,"Children & Family Movies, Dramas",Movie,0.0
+s8363,71211,auto,"Informant!, The (2009)",The Informant!,100.0,0.25,2009,"Comedies, Dramas",Movie,0.0
+s8366,71520,auto,"Invention of Lying, The (2009)",The Invention of Lying,100.0,0.0,2009,"Comedies, Romantic Movies",Movie,0.0
+s8370,91890,auto,"Iron Lady, The (2011)",The Iron Lady,100.0,1.0,2011,"Dramas, International Movies",Movie,0.0
+s8373,55451,auto,The Jane Austen Book Club (2007),The Jane Austen Book Club,100.0,0.67,2007,"Comedies, Dramas, Romantic Movies",Movie,0.0
+s8378,81845,auto,"King's Speech, The (2010)",The King's Speech,100.0,1.0,2010,"Dramas, International Movies",Movie,0.0
+s8381,45668,auto,"Lake House, The (2006)",The Lake House,100.0,0.75,2006,"Dramas, Romantic Movies, Sci-Fi & Fantasy",Movie,0.0
+s8385,80094,auto,"Last Exorcism, The (2010)",The Last Exorcism,100.0,1.0,2010,"Horror Movies, Independent Movies, Thrillers",Movie,0.0
+s8396,143245,auto,The Little Prince (2015),The Little Prince,100.0,0.0,2015,Children & Family Movies,Movie,0.0
+s8397,44555,auto,"Lives of Others, The (Das leben der Anderen) (2006)",The Lives of Others,100.0,0.67,2006,"Dramas, International Movies, Thrillers",Movie,0.0
+s8399,133771,auto,The Lobster (2015),The Lobster,100.0,0.33,2015,"Comedies, International Movies, Romantic Movies",Movie,0.0
+s8402,4220,auto,"Longest Yard, The (1974)",The Longest Yard,100.0,,1974,"Classic Movies, Comedies, Sports Movies",Movie,0.0
+s8405,7153,auto,"Lord of the Rings: The Return of the King, The (2003)",The Lord of the Rings: The Return of the King,100.0,0.6,2003,"Action & Adventure, Sci-Fi & Fantasy",Movie,78.6
+s8406,5952,auto,"Lord of the Rings: The Two Towers, The (2002)",The Lord of the Rings: The Two Towers,100.0,0.5,2002,"Action & Adventure, Sci-Fi & Fantasy",Movie,77.8
+s8407,58315,auto,"Love Guru, The (2008)",The Love Guru,100.0,,2008,"Comedies, Sports Movies",Movie,0.0
+s8414,2006,auto,"Mask of Zorro, The (1998)",The Mask of Zorro,100.0,0.5,1998,"Action & Adventure, Romantic Movies",Movie,0.0
+s8415,2571,auto,"Matrix, The (1999)",The Matrix,100.0,0.4,1999,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s8416,6365,auto,"Matrix Reloaded, The (2003)",The Matrix Reloaded,100.0,0.6,2003,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s8417,6934,auto,"Matrix Revolutions, The (2003)",The Matrix Revolutions,100.0,0.6,2003,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s8421,71156,auto,"Men Who Stare at Goats, The (2009)",The Men Who Stare at Goats,100.0,,2009,Comedies,Movie,0.0
+s8435,3868,auto,"Naked Gun: From the Files of Police Squad!, The (1988)",The Naked Gun: From the Files of Police Squad!,100.0,,1988,"Comedies, Cult Movies",Movie,80.0
+s8436,3098,auto,"Natural, The (1984)",The Natural,100.0,1.0,1984,"Classic Movies, Dramas, Sports Movies",Movie,0.0
+s8444,113829,auto,"One I Love, The (2014)",The One I Love,100.0,0.33,2014,"Comedies, Dramas, Independent Movies",Movie,100.0
+s8446,79592,auto,"Other Guys, The (2010)",The Other Guys,100.0,0.33,2010,"Action & Adventure, Comedies",Movie,0.0
+s8449,1616,auto,"Peacemaker, The (1997)",The Peacemaker,100.0,0.25,1997,Action & Adventure,Movie,80.0
+s8450,2803,auto,"Pelican Brief, The (1993)",The Pelican Brief,100.0,0.4,1993,"Dramas, Thrillers",Movie,0.0
+s8451,147410,auto,A Perfect Day (2015),The Perfect Day,100.0,0.0,2018,"Documentaries, International Movies, Sports Movies",Movie,81.8
+s8452,96821,auto,"Perks of Being a Wallflower, The (2012)",The Perks of Being a Wallflower,100.0,0.5,2012,"Comedies, Dramas",Movie,0.0
+s8453,30816,auto,"Phantom of the Opera, The (2004)",The Phantom of the Opera,100.0,1.0,2004,"Dramas, Music & Musicals, Romantic Movies",Movie,0.0
+s8455,43836,auto,"Pink Panther, The (2006)",The Pink Panther,100.0,0.0,2006,"Children & Family Movies, Comedies",Movie,100.0
+s8458,94833,auto,"Pirates! Band of Misfits, The (2012)",The Pirates! Band of Misfits,100.0,0.25,2012,"Children & Family Movies, Comedies",Movie,0.0
+s8459,101525,auto,"Place Beyond the Pines, The (2012)",The Place Beyond the Pines,100.0,0.5,2012,"Dramas, Independent Movies",Movie,0.0
+s8461,140956,auto,Ready Player One,The Player,100.0,,2012,"Comedies, International Movies",Movie,0.0
+s8462,8965,auto,"Polar Express, The (2004)",The Polar Express,100.0,0.25,2004,Children & Family Movies,Movie,0.0
+s8466,7375,auto,"Prince & Me, The (2004)",The Prince & Me,100.0,0.5,2004,"Comedies, Romantic Movies",Movie,0.0
+s8467,72737,auto,"Princess and the Frog, The (2009)",The Princess and the Frog,100.0,0.2,2009,Children & Family Movies,Movie,0.0
+s8470,47099,auto,"Pursuit of Happyness, The (2006)",The Pursuit of Happyness,100.0,1.0,2006,Dramas,Movie,0.0
+s8474,1672,auto,"Rainmaker, The (1997)",The Rainmaker,100.0,0.5,1997,"Dramas, Thrillers",Movie,0.0
+s8486,61240,auto,Let the Right One In (Låt den rätte komma in) (2008),The Right One,100.0,0.5,2011,"Dramas, International Movies, Romantic Movies",Movie,0.0
+s8490,376,auto,"River Wild, The (1994)",The River Wild,100.0,0.33,1994,Action & Adventure,Movie,0.0
+s8493,87028,auto,"Roommate, The (2011)",The Roommate,100.0,0.5,2011,Thrillers,Movie,0.0
+s8495,91128,auto,"Rum Diary, The (2011)",THE RUM DIARY,100.0,0.33,2011,"Comedies, Dramas",Movie,0.0
+s8497,115216,auto,"Salvation, The (2014)",The Salvation,100.0,0.5,2014,"Dramas, Independent Movies, International Movies",Movie,100.0
+s8499,4448,auto,"Score, The (2001)",The Score,100.0,0.33,2001,"Dramas, Thrillers",Movie,100.0
+s8508,112868,auto,"Signal, The (2014)",The Signal,100.0,0.67,2014,"Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s8512,80463,auto,"Social Network, The (2010)",The Social Network,100.0,1.0,2010,Dramas,Movie,0.0
+s8513,166526,auto,The Space Between Us (2016),The Space Between Us,100.0,0.4,2016,"Action & Adventure, Romantic Movies, Sci-Fi & Fantasy",Movie,0.0
+s8514,103539,auto,The Spectacular Now (2013),The Spectacular Now,100.0,0.67,2013,"Dramas, Independent Movies, Romantic Movies",Movie,0.0
+s8518,127212,auto,The Stanford Prison Experiment (2015),The Stanford Prison Experiment,100.0,1.0,2015,"Dramas, Independent Movies, Thrillers",Movie,0.0
+s8527,3176,auto,"Talented Mr. Ripley, The (1999)",The Talented Mr. Ripley,100.0,0.67,1999,"Dramas, Thrillers",Movie,0.0
+s8528,2459,auto,"Texas Chainsaw Massacre, The (1974)",The Texas Chainsaw Massacre,100.0,1.0,1974,"Cult Movies, Horror Movies, Independent Movies",Movie,0.0
+s8532,5171,auto,"Time Machine, The (2002)",The Time Machine,100.0,0.75,2002,"Action & Adventure, Sci-Fi & Fantasy",Movie,83.3
+s8533,70599,auto,"Time Traveler's Wife, The (2009)",The Time Traveler's Wife,100.0,0.75,2009,"Dramas, Romantic Movies, Sci-Fi & Fantasy",Movie,0.0
+s8536,882,auto,"Trigger Effect, The (1996)",The Trigger Effect,100.0,0.5,1996,Thrillers,Movie,0.0
+s8538,156706,auto,The Trust (2016),The Trust,100.0,0.5,2015,Thrillers,Movie,80.0
+s8541,5621,auto,"Tuxedo, The (2002)",The Tuxedo,100.0,0.33,2002,"Action & Adventure, Comedies",Movie,0.0
+s8543,70183,auto,"Ugly Truth, The (2009)",The Ugly Truth,100.0,0.33,2009,"Comedies, Romantic Movies",Movie,0.0
+s8548,110387,auto,"Unknown Known, The (2013)",The Unknown Known,100.0,1.0,2013,Documentaries,Movie,100.0
+s8555,2335,auto,"Waterboy, The (1998)",The Waterboy,100.0,,1998,"Comedies, Sports Movies",Movie,0.0
+s8565,3082,auto,"World Is Not Enough, The (1999)",The World Is Not Enough,100.0,0.67,1999,Action & Adventure,Movie,100.0
+s8581,122916,auto,Thor: Ragnarok (2017),Thor: Ragnarok,100.0,0.75,2017,"Action & Adventure, Comedies, Sci-Fi & Fantasy",Movie,0.0
+s8599,203,auto,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)","To Wong Foo, Thanks for Everything! Julie Newmar",100.0,,1995,"Comedies, Cult Movies, LGBTQ Movies",Movie,75.0
+s8602,173235,auto,Tokyo Idols (2017),Tokyo Idols,100.0,0.5,2017,"Documentaries, International Movies, Music & Musicals",Movie,0.0
+s8604,1722,auto,Tomorrow Never Dies (1997),Tomorrow Never Dies,100.0,0.67,1997,Action & Adventure,Movie,0.0
+s8608,4743,auto,Tortilla Soup (2001),Tortilla Soup,100.0,0.33,2001,"Comedies, Dramas, Romantic Movies",Movie,0.0
+s8611,129657,auto,Tracers (2015),Tracers,100.0,0.5,2015,Action & Adventure,Movie,76.9
+s8614,162082,auto,Train to Busan (2016),Train to Busan,100.0,0.25,2016,"Action & Adventure, Horror Movies, International Movies",Movie,83.3
+s8615,778,auto,Trainspotting (1996),Trainspotting,100.0,0.33,1996,"Comedies, Cult Movies, Dramas",Movie,0.0
+s8616,61352,auto,Traitor (2008),Traitor,100.0,0.67,2008,"Dramas, Thrillers",Movie,0.0
+s8617,110730,auto,Transcendence (2014),Transcendence,100.0,0.25,2014,"Sci-Fi & Fantasy, Thrillers",Movie,0.0
+s8622,6659,auto,Tremors (1990),Tremors,100.0,0.33,1990,"Comedies, Cult Movies, Horror Movies",Movie,0.0
+s8623,7845,auto,Tremors II: Aftershocks (1996),Tremors 2: Aftershocks,95.0,0.5,1995,"Comedies, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s8624,7846,auto,Tremors 3: Back to Perfection (2001),Tremors 3: Back to Perfection,100.0,0.5,2001,"Comedies, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s8625,27683,auto,Tremors 4: The Legend Begins (2004),Tremors 4: The Legend Begins,100.0,0.29,2004,"Comedies, Horror Movies, Sci-Fi & Fantasy",Movie,0.0
+s8636,3494,auto,True Grit (1969),True Grit,100.0,0.33,1969,"Classic Movies, Dramas",Movie,0.0
+s8638,145418,auto,Trumbo (2015),Trumbo,100.0,1.0,2015,"Dramas, Independent Movies",Movie,0.0
+s8639,83134,auto,Tucker & Dale vs Evil (2010),Tucker and Dale vs. Evil,100.0,0.5,2010,"Comedies, Horror Movies, Independent Movies",Movie,0.0
+s8642,103755,auto,Turbo (2013),Turbo,100.0,0.2,2013,"Children & Family Movies, Comedies",Movie,100.0
+s8643,114670,auto,Tusk (2014),Tusk,100.0,0.33,2014,Horror Movies,Movie,0.0
+s8659,109848,auto,Under the Skin (2013),Under The Skin,100.0,0.0,2013,"Dramas, Independent Movies, International Movies",Movie,78.3
+s8669,44191,auto,V for Vendetta (2006),V for Vendetta,100.0,0.33,2005,"Action & Adventure, Dramas, Sci-Fi & Fantasy",Movie,0.0
+s8671,58103,auto,Vantage Point (2008),Vantage Point,100.0,0.25,2008,Action & Adventure,Movie,0.0
+s8676,141004,auto,Victor Frankenstein (2015),Victor,100.0,0.33,2015,Dramas,Movie,85.7
+s8690,37384,auto,Waiting... (2005),Waiting...,100.0,,2005,"Comedies, Independent Movies",Movie,0.0
+s8697,91126,auto,War Horse (2011),War Horse,100.0,0.5,2011,Dramas,Movie,0.0
+s8723,3798,auto,What Lies Beneath (2000),What Lies Beneath,100.0,0.25,2000,"Horror Movies, Thrillers",Movie,0.0
+s8730,3537,auto,Where the Money Is (2000),Where the Money Is,100.0,0.25,2000,"Action & Adventure, Comedies, Dramas",Movie,80.0
+s8732,130452,auto,While We're Young (2014),While We're Young,100.0,0.5,2015,"Comedies, Dramas, Independent Movies",Movie,0.0
+s8736,8840,auto,Who's That Knocking at My Door? (1967),Who's That Knocking at My Door?,100.0,1.0,1967,"Classic Movies, Dramas, Independent Movies",Movie,0.0
+s8743,2701,auto,Wild Wild West (1999),Wild Wild West,100.0,0.33,1999,"Action & Adventure, Comedies, Sci-Fi & Fantasy",Movie,0.0
+s8746,1073,auto,Willy Wonka & the Chocolate Factory (1971),Willy Wonka & the Chocolate Factory,100.0,0.25,1971,"Children & Family Movies, Classic Movies, Comedies",Movie,0.0
+s8751,78574,auto,Winter's Bone (2010),Winter's Bone,100.0,0.5,2010,"Dramas, Independent Movies",Movie,0.0
+s8758,46974,auto,World Trade Center (2006),World Trade Center,100.0,0.33,2006,"Action & Adventure, Dramas",Movie,0.0
+s8765,383,auto,Wyatt Earp (1994),Wyatt Earp,100.0,0.0,1994,Action & Adventure,Movie,0.0
+s8767,5507,auto,xXx (2002),XXx,100.0,0.25,2002,"Action & Adventure, Sports Movies",Movie,100.0
+s8769,5225,auto,And Your Mother Too (Y tu mamá también) (2001),Y Tu Mamá También,100.0,0.5,2001,"Dramas, Independent Movies, International Movies",Movie,0.0
+s8791,59900,auto,You Don't Mess with the Zohan (2008),You Don't Mess with the Zohan,100.0,0.0,2008,"Action & Adventure, Comedies",Movie,0.0
+s8792,91622,auto,Young Adult (2011),Young Adult,100.0,0.5,2011,"Comedies, Dramas, Independent Movies",Movie,0.0
+s8794,40962,auto,"Yours, Mine and Ours (2005)","Yours, Mine and Ours",100.0,0.0,2005,"Children & Family Movies, Comedies",Movie,0.0
+s8803,51540,auto,Zodiac (2007),Zodiac,100.0,0.67,2007,"Cult Movies, Dramas, Thrillers",Movie,0.0
+s8805,71535,auto,Zombieland (2009),Zombieland,100.0,0.33,2009,"Comedies, Horror Movies",Movie,0.0
+s8806,47384,auto,Zoom (2006),Zoom,100.0,0.0,2006,"Children & Family Movies, Comedies",Movie,75.0
+s892,27831,auto,Layer Cake (2004),Layer Cake,100.0,0.33,2004,"Independent Movies, International Movies, Thrillers",Movie,0.0
+s929,4568,auto,Best of the Best (1989),Best of the Best,100.0,0.5,1989,"Action & Adventure, Sports Movies",Movie,84.2
+s931,81537,auto,Due Date (2010),Due Date,100.0,0.0,2010,"Action & Adventure, Comedies",Movie,0.0
+s932,42011,auto,Fun with Dick and Jane (2005),Fun with Dick & Jane,100.0,,2005,Comedies,Movie,0.0
+s933,74795,auto,Green Zone (2010),Green Zone,100.0,0.2,2010,Action & Adventure,Movie,81.8
+s934,73290,auto,Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale) (2009),Hachi: A Dog's Tale,100.0,0.5,2009,"Children & Family Movies, Dramas",Movie,0.0
+s936,95105,auto,Madagascar 3: Europe's Most Wanted (2012),Madagascar 3: Europe's Most Wanted,100.0,0.25,2012,"Children & Family Movies, Comedies",Movie,84.6
+s943,6870,auto,Mystic River (2003),Mystic River,100.0,0.25,2003,"Dramas, Thrillers",Movie,0.0
+s944,58627,auto,Never Back Down (2008),Never Back Down,100.0,0.33,2008,"Action & Adventure, Dramas, Sports Movies",Movie,0.0
+s947,316,auto,Stargate (1994),Stargate,100.0,0.75,1994,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s948,68159,auto,State of Play (2009),State of Play,100.0,0.67,2009,"Dramas, Thrillers",Movie,0.0
+s950,91660,auto,"Darkest Hour, The (2011)",The Darkest Hour,100.0,0.33,2011,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0
+s951,72731,auto,"Lovely Bones, The (2009)",The Lovely Bones,100.0,0.33,2009,"Dramas, International Movies, Sci-Fi & Fantasy",Movie,0.0
+s952,5296,auto,"Sweetest Thing, The (2002)",The Sweetest Thing,100.0,0.5,2002,"Comedies, Romantic Movies",Movie,0.0
+s957,62434,auto,Zack and Miri Make a Porno (2008),Zack and Miri Make a Porno,100.0,0.33,2008,"Comedies, Independent Movies, Romantic Movies",Movie,0.0
+s971,85131,auto,Battle: Los Angeles (2011),Battle: Los Angeles,100.0,0.4,2011,"Action & Adventure, Sci-Fi & Fantasy",Movie,0.0

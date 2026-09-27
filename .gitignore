@@ -11,3 +11,16 @@ venv/
 .DS_Store
 
 .env
+
+# --- MovieLens: ml-25m is NOT redistributable (GroupLens license) -------------
+# ml-latest-small IS redistributable under the same license conditions and is
+# therefore committed. Everything below stays local.
+data/movielens/ml-25m/
+data/movielens/ml-25m.zip
+*.parquet
+
+# --- local / generated state --------------------------------------------------
+data/movielens/*.zip
+*.sqlite
+*.db
+.watchlist/
