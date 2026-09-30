@@ -63,7 +63,7 @@ def _build_text(df: pd.DataFrame) -> sparse.csr_matrix:
         join(df["rating"])
     )
     vectorizer = TfidfVectorizer(
-        max_features=40_000,
+        max_features=20_000,
         ngram_range=(1, 2),
         min_df=2,
         sublinear_tf=True,

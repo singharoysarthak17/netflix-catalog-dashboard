@@ -86,8 +86,8 @@ def build_cf_model(
     popularity = (pop - pop.min()) / span if span > 0 else np.zeros_like(pop)
 
     return CFModel(
-        Xn=Xn,
-        X_raw=X,
+        Xn=Xn.astype(np.float32),
+        X_raw=X.astype(np.float32),
         movie_ids=movie_ids,
         item_index=item_index,
         titles=titles,
@@ -143,9 +143,16 @@ def score_items(
     return scores, attribution
 
 
-_cached_builder = st.cache_resource(build_cf_model)
+# Lazy: only built when CF signal is actually needed (watchlist with
+# joined titles). Avoids ~100MB sparse matrix on cold start for users
+# who haven't built a matched watchlist yet.
+
+_cached: CFModel | None = None
 
 
 def get_cf_model() -> CFModel:
-    """Build once per process; ratings.csv is 100k rows so this is quick."""
-    return _cached_builder()
+    """Build on first call; ratings.csv is 100k rows so this is quick."""
+    global _cached
+    if _cached is None:
+        _cached = build_cf_model()
+    return _cached
