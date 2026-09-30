@@ -44,11 +44,14 @@ def _allowed_mask(df: pd.DataFrame, filters: Filters | None) -> np.ndarray:
         return np.ones(len(df), dtype=bool)
     mask = (
         df["year_added"].between(*filters.year_range) &
-        df["type"].isin(filters.types) &
-        df["rating"].isin(filters.ratings) &
-        df["countries"].apply(lambda c: _list_overlaps_selection(c, filters.countries)) &
-        df["genres"].apply(lambda g: _list_overlaps_selection(g, filters.genres))
+        df["type"].isin(filters.types)
     )
+    if filters.countries:
+        mask &= df["countries"].apply(lambda c: _list_overlaps_selection(c, filters.countries))
+    if filters.ratings:
+        mask &= df["rating"].isin(filters.ratings)
+    if filters.genres:
+        mask &= df["genres"].apply(lambda g: _list_overlaps_selection(g, filters.genres))
     return mask.to_numpy()
 
 

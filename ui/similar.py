@@ -87,22 +87,22 @@ def _sidebar(df: pd.DataFrame, defaults: dict[str, Any] | None) -> dict[str, Any
     st.sidebar.header("Find similar titles")
 
     seed_index = titles.index(defaults["seed"]) if defaults.get("seed") in titles else 0
-    seed = st.sidebar.selectbox("Seed title", titles, index=seed_index)
+    seed = st.sidebar.selectbox("Seed title", titles, index=seed_index, key="sim_seed")
 
     selected_genres = [g for g in defaults.get("genres", []) if g in all_genres]
-    genres = st.sidebar.multiselect("Genre", all_genres, default=selected_genres)
+    genres = st.sidebar.multiselect("Genre", all_genres, default=selected_genres, key="sim_genres")
 
     wanted = defaults.get("country") or ANY
     country_index = all_countries.index(wanted) + 1 if wanted in all_countries else 0
-    country = st.sidebar.selectbox("Country", [ANY, *all_countries], index=country_index)
+    country = st.sidebar.selectbox("Country", [ANY, *all_countries], index=country_index, key="sim_country")
 
     mood_list = [ANY_MOOD, *MOODS]
     wanted_mood = defaults.get("mood") or ANY_MOOD
     mood_index = mood_list.index(wanted_mood) if wanted_mood in mood_list else 0
-    mood = st.sidebar.selectbox("Mood", mood_list, index=mood_index)
+    mood = st.sidebar.selectbox("Mood", mood_list, index=mood_index, key="sim_mood")
 
     clicked = st.sidebar.button(
-        "Get recommendations", type="primary", use_container_width=True,
+        "Get recommendations", type="primary", use_container_width=True, key="sim_go",
     )
 
     return {"seed": seed, "genres": genres, "country": country,

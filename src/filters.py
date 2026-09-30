@@ -35,22 +35,25 @@ def build_sidebar(df: pd.DataFrame) -> Filters:
         (2015, int(df["year_added"].max())),
     )
 
+    type_options = sorted(df["type"].unique())
     type_filter = st.sidebar.multiselect(
         "Content Type",
-        options=sorted(df["type"].unique()),
-        default=sorted(df["type"].unique()),
+        options=type_options,
+        default=type_options,
     )
 
     all_countries = sorted(df["countries"].dropna().explode().dropna().unique())
     all_genres = sorted(df["genres"].dropna().explode().dropna().unique())
     all_ratings = sorted(df["rating"].dropna().unique())
 
+    # Default to empty selection = "no filter" (show all). Avoids pre-selecting
+    # 100+ countries / 42 genres in widget state, which bloats session on Cloud.
     country_filter = st.sidebar.multiselect(
-        "Country", options=all_countries, default=all_countries)
+        "Country", options=all_countries, default=[])
     rating_filter = st.sidebar.multiselect(
-        "Rating", options=all_ratings, default=all_ratings)
+        "Rating", options=all_ratings, default=[])
     genre_filter = st.sidebar.multiselect(
-        "Genre", options=all_genres, default=all_genres)
+        "Genre", options=all_genres, default=[])
 
     return Filters(
         year_range=year_range,
@@ -73,10 +76,11 @@ def _list_overlaps_selection(cell: object, selected: list[str]) -> bool:
 
 
 def apply_filters(df: pd.DataFrame, f: Filters) -> pd.DataFrame:
-    return df[
-        (df["year_added"].between(*f.year_range)) &
-        (df["type"].isin(f.types)) &
-        (df["rating"].isin(f.ratings)) &
-        (df["countries"].apply(lambda c: _list_overlaps_selection(c, f.countries))) &
-        (df["genres"].apply(lambda g: _list_overlaps_selection(g, f.genres)))
-    ]
+    mask = (df["year_added"].between(*f.year_range)) & (df["type"].isin(f.types))
+    if f.countries:
+        mask &= df["countries"].apply(lambda c: _list_overlaps_selection(c, f.countries))
+    if f.ratings:
+        mask &= df["rating"].isin(f.ratings)
+    if f.genres:
+        mask &= df["genres"].apply(lambda g: _list_overlaps_selection(g, f.genres))
+    return df[mask]
