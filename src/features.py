@@ -63,8 +63,8 @@ def _build_text(df: pd.DataFrame) -> sparse.csr_matrix:
         join(df["rating"])
     )
     vectorizer = TfidfVectorizer(
-        max_features=20_000,
-        ngram_range=(1, 2),
+        max_features=10_000,
+        ngram_range=(1, 1),
         min_df=2,
         sublinear_tf=True,
         strip_accents="unicode",
@@ -123,15 +123,18 @@ def _build_default() -> ContentModel:
     return build_content_model(load_data())
 
 
-# No arguments on purpose: st.cache_resource re-hashes its args on every
-# call, and hashing all 8,800 rows (descriptions included) on each rerun
-# would cost more than building the matrix once.
-_cached_builder = st.cache_resource(_build_default)
+# Lazy module-level singleton: built on first call, not at import.
+# Avoids ~50-80MB on cold start for users who only view the dashboard.
+
+_cached: ContentModel | None = None
 
 
 def get_content_model() -> ContentModel:
-    """Build once per process; subsequent reruns reuse the matrix."""
-    return _cached_builder()
+    """Build on first call; subsequent calls return the cached matrix."""
+    global _cached
+    if _cached is None:
+        _cached = _build_default()
+    return _cached
 
 
 def score_against(model: ContentModel, query: sparse.csr_matrix) -> np.ndarray:
