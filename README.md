@@ -8,7 +8,7 @@ catalog, collaborative filtering over 100,836 MovieLens ratings, and a
 popularity prior are blended into one ranking — and the app tells you which of
 the three actually drove each result.
 
-![Recommendations](Images/Overview.png)
+![Recommendations](images/overview.png)
 
 ---
 
@@ -29,10 +29,33 @@ click away under **Dashboard**.
 | 🎯 **Because You Watched** | Item-to-item neighbours of any title you pick |
 | 🍿 **My Watchlist** | Persistent per-user list: star ratings, JSON export/import, shareable key link |
 | 🔬 **How It Works** | Blend weights, join coverage, offline evaluation, limitations, citation |
+| 🔍 **Find Similar Titles** | Seed title + genre/country/mood profile → six content matches on a card grid |
 | 📊 **Dashboard** | Overview · Country/Rating · Growth · Trends (the original four tabs) |
 
 The shared sidebar filters (year added, type, country, rating, genre) stay live
 on every page.
+
+### Find Similar Titles
+
+A second, deliberately simpler path: pick a **seed title**, optionally narrow it
+with **genre**, **country** and **mood**, and get six neighbours back.
+
+```
+score = cosine(seed, candidate)                 # the existing content model
+      + 0.10  if the candidate shares a selected genre
+      + 0.06  if it shares the selected country
+      + 0.08  if it matches the mood's genres or keywords
+```
+
+- The boosts **re-rank, they never filter** — an over-specified profile still
+  returns a full grid instead of an empty one.
+- Moods are a fixed editorial map (`src/similar.py`): `suspenseful`,
+  `light-hearted`, `dark`, `feel-good`, `intense` → genres + prose keywords.
+- A seed with too little text to vectorize falls back to **genre + country**
+  matching rather than returning nothing.
+- Stateless: the last requested selection lives in the **URL**
+  (`?sim_seed=…&sim_genres=…`), so results survive reruns and can be
+  bookmarked. Same inputs always draw the same grid.
 
 ### How the ranking is built
 
@@ -177,7 +200,7 @@ unpinned `streamlit`/`plotly` pair is how a working app breaks itself.
 ## ✅ Testing
 
 ```bash
-pytest                          # 29 tests: join, content, CF, blend, storage
+pytest                          # 46 tests: join, content, CF, blend, storage, similarity
 pytest -m slow                  # + the full leave-one-out evaluation (~20s)
 python scripts/smoke_test.py    # headless end-to-end: models, all rec paths, eval
 python scripts/ui_smoke_test.py # renders both pages via streamlit AppTest
@@ -190,10 +213,12 @@ python scripts/ui_smoke_test.py # renders both pages via streamlit AppTest
 ```
 app.py                    entry point: sidebar + st.navigation
 views/                    thin page scripts (Streamlit executes these)
-ui/                       import-safe renderers (recommend.py, dashboard.py)
+ui/                       import-safe renderers (recommend.py, dashboard.py,
+                          similar.py)
 src/
   data.py  filters.py     load + filter the catalog
   features.py             TF-IDF / multi-hot content model (sparse)
+  similar.py              seed-title similarity + soft genre/country/mood boost
   cf.py                   item-item CF over MovieLens (sparse, column-normalized)
   blend.py                weights, ranking, reasons, dominant-signal badges
   catalog.py              Netflix ↔ MovieLens join helpers
@@ -227,19 +252,19 @@ data/movielens/           ml-latest-small + join artifacts
 
 ### Overview
 
-![Overview](Images/Overview.png)
+![Overview](images/overview.png)
 
 ### Country Rating
 
-![Country Rating](Images/country-rating.png)
+![Country Rating](images/country-rating.png)
 
 ### Growth
 
-![Growth](Images/growth-trend.png)
+![Growth](images/growth-trend.png)
 
 ### Trends
 
-![Trends](Images/movie-tv-trend.png)
+![Trends](images/movie-tv-trend.png)
 
 ---
 

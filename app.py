@@ -36,6 +36,8 @@ navigation = st.navigation(
         "Discover": [
             st.Page("views/recommendations_page.py",
                     title="Recommendations", icon="🎬", default=True),
+            st.Page("views/similar_page.py",
+                    title="Find Similar Titles", icon="🔍"),
             st.Page("views/dashboard_page.py",
                     title="Dashboard", icon="📊"),
         ]

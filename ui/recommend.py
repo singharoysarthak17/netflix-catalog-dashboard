@@ -56,7 +56,18 @@ def _persist(storage, key: str, watchlist: dict) -> None:
 # ---------------------------------------------------------------------------
 # rendering helpers
 # ---------------------------------------------------------------------------
-def _card(row: pd.Series, watchlist: dict, key: str, storage, *, addable: bool) -> None:
+def _add_key(scope: str, show_id: object) -> str:
+    """Button key for a card.
+
+    Every tab renders on every rerun, and For You / Because You Watched can
+    both recommend the same title -- a bare ``add_<show_id>`` then raises
+    StreamlitDuplicateElementKey on the second registration.
+    """
+    return f"{scope}_add_{show_id}"
+
+
+def _card(row: pd.Series, watchlist: dict, key: str, storage, *,
+          scope: str, addable: bool) -> None:
     year = row.get("release_year")
     left, body, right = st.columns([1, 6, 2])
 
@@ -76,7 +87,7 @@ def _card(row: pd.Series, watchlist: dict, key: str, storage, *, addable: bool) 
         in_list = row["show_id"] in watchlist
         if in_list:
             st.success("In watchlist")
-        elif addable and st.button("➕ Add", key=f"add_{row['show_id']}"):
+        elif addable and st.button("➕ Add", key=_add_key(scope, row["show_id"])):
             watchlist[row["show_id"]] = {
                 "rating": None,
                 "added_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -87,12 +98,13 @@ def _card(row: pd.Series, watchlist: dict, key: str, storage, *, addable: bool) 
     st.divider()
 
 
-def _render_results(frame: pd.DataFrame, watchlist, key, storage, *, addable=True) -> None:
+def _render_results(frame: pd.DataFrame, watchlist, key, storage, *,
+                    scope: str, addable: bool = True) -> None:
     if frame.empty:
         st.info("No titles match the current sidebar filters. Widen them to see more.")
         return
     for _, row in frame.iterrows():
-        _card(row, watchlist, key, storage, addable=addable)
+        _card(row, watchlist, key, storage, scope=scope, addable=addable)
 
 
 def _coverage_caption() -> None:
@@ -116,7 +128,7 @@ def _tab_for_you(df, filters, watchlist, key, storage) -> None:
         )
         with st.spinner("Ranking the catalog…"):
             frame = blend.recommend(df, filters, top_n=8)
-        _render_results(frame, watchlist, key, storage)
+        _render_results(frame, watchlist, key, storage, scope="foryou")
         return
 
     rated = sum(1 for e in watchlist.values() if e.get("rating"))
@@ -125,7 +137,7 @@ def _tab_for_you(df, filters, watchlist, key, storage) -> None:
 
     with st.spinner("Ranking the catalog…"):
         frame = blend.recommend(df, filters, watchlist=watchlist, top_n=TOP_N)
-    _render_results(frame, watchlist, key, storage)
+    _render_results(frame, watchlist, key, storage, scope="foryou")
 
 
 def _tab_because_you_watched(df, filters, watchlist, key, storage) -> None:
@@ -143,7 +155,7 @@ def _tab_because_you_watched(df, filters, watchlist, key, storage) -> None:
     with st.spinner("Finding neighbours…"):
         frame = blend.recommend(df, filters, seed_show_id=seed_show_id, top_n=TOP_N)
     st.caption(f"Because you watched **{choice}**")
-    _render_results(frame, watchlist, key, storage)
+    _render_results(frame, watchlist, key, storage, scope="because")
 
 
 def _tab_watchlist(df, filters, watchlist, key, storage) -> None:

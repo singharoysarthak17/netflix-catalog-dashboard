@@ -24,3 +24,6 @@ data/movielens/*.zip
 *.sqlite
 *.db
 .watchlist/
+
+# playwright MCP snapshots/console logs (browser work, not repo content)
+.playwright-mcp/

@@ -137,15 +137,15 @@ def run_evaluation() -> EvalResult:
     return _leave_one_out(model, rng)
 
 
-def _build_default() -> EvalResult:
-    return run_evaluation()
-
-
-_cached = st.cache_resource(_build_default)
-
+# Evaluation is lazy: only computed when the "How It Works" tab is viewed.
+# The result is cached in st.session_state so the 17s leave-one-out runs once
+# per session, not once per process (which would hit the first user's request).
 
 def get_evaluation() -> EvalResult:
-    return _cached()
+    """Get or compute the evaluation result (lazy, per-session)."""
+    if "eval_result" not in st.session_state:
+        st.session_state["eval_result"] = run_evaluation()
+    return st.session_state["eval_result"]
 
 
 def summary_table() -> pd.DataFrame:
