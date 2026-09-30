@@ -63,7 +63,7 @@ def _build_text(df: pd.DataFrame) -> sparse.csr_matrix:
         join(df["rating"])
     )
     vectorizer = TfidfVectorizer(
-        max_features=3_000,
+        max_features=2_000,
         ngram_range=(1, 1),
         min_df=2,
         sublinear_tf=True,
@@ -75,7 +75,7 @@ def _build_text(df: pd.DataFrame) -> sparse.csr_matrix:
 
 def _build_block(series: pd.Series) -> sparse.csr_matrix:
     """Multi-hot one column of list-valued cells (scalars are wrapped)."""
-    mlb = MultiLabelBinarizer()
+    mlb = MultiLabelBinarizer(sparse_output=True)
 
     def as_list(value: object) -> list:
         if isinstance(value, list):
