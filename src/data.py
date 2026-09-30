@@ -18,8 +18,7 @@ def load_data(path: str = "netflix_titles.csv") -> pd.DataFrame:
     df["year_added"] = df["date_added"].dt.year
     df = df.dropna(subset=["year_added"])
     df["year_added"] = df["year_added"].astype(int)
+    # Split only what filters/models actually use; keep raw strings for TF-IDF
     df["genres"] = df["listed_in"].str.split(", ")
     df["countries"] = df["country"].str.split(", ")
-    df["cast_list"] = df["cast"].str.split(", ")
-    df["director_list"] = df["director"].str.split(", ")
     return df
