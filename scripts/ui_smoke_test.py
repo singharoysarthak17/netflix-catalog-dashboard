@@ -94,12 +94,8 @@ def check_dashboard() -> None:
 import streamlit as st
 st.set_page_config(page_title="Dashboard", layout="wide")
 from src.data import load_data
-from src.filters import apply_filters, build_sidebar
-_df = load_data()
-_st = build_sidebar(_df)
-st.session_state["netflix_df"] = _df
-st.session_state["filters"] = _st
-st.session_state["filtered_df"] = apply_filters(_df, _st)
+st.session_state["netflix_df_provider"] = load_data
+# Page will call build_sidebar and render
 exec(compile({page!r}, "views/dashboard_page.py", "exec"))
 '''
     harness.write_text(script, encoding="utf-8")
@@ -127,12 +123,8 @@ def check_similar() -> None:
 import streamlit as st
 st.set_page_config(page_title="Find Similar Titles", layout="wide")
 from src.data import load_data
-from src.filters import apply_filters, build_sidebar
-_df = load_data()
-_st = build_sidebar(_df)
-st.session_state["netflix_df"] = _df
-st.session_state["filters"] = _st
-st.session_state["filtered_df"] = apply_filters(_df, _st)
+st.session_state["netflix_df_provider"] = load_data
+# Page will call build_sidebar and render
 exec(compile({page!r}, "views/similar_page.py", "exec"))
 '''
     harness.write_text(script, encoding="utf-8")

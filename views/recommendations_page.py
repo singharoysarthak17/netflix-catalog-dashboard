@@ -7,11 +7,12 @@ published by app.py and calls the import-safe renderer in ui.recommend.
 from __future__ import annotations
 
 import streamlit as st
+from src.filters import apply_filters, build_sidebar
 
 from ui.recommend import render
 
-df = st.session_state["netflix_df"]
-filtered_df = st.session_state["filtered_df"]
-filters = st.session_state["filters"]
+df = st.session_state["netflix_df_provider"]()
+filters = build_sidebar(df)
+filtered_df = apply_filters(df, filters)
 
 render(df, filtered_df, filters)

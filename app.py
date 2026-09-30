@@ -19,17 +19,8 @@ st.set_page_config(
     layout="wide",
 )
 
-from src.data import load_data            # noqa: E402  (after set_page_config)
-from src.filters import apply_filters, build_sidebar   # noqa: E402
-
-df = load_data()
-filters = build_sidebar(df)
-filtered_df = apply_filters(df, filters)
-
-# Published once per rerun; views/ scripts read these back.
-st.session_state["netflix_df"] = df
-st.session_state["filters"] = filters
-st.session_state["filtered_df"] = filtered_df
+# Import-safe: defer heavy work until a page actually renders.
+# The views/ scripts call their render() with state we publish here.
 
 navigation = st.navigation(
     {
@@ -44,4 +35,13 @@ navigation = st.navigation(
     },
     position="sidebar",
 )
+
+# Publish a lazy data provider - views call render(), which imports and calls
+# src.data.load_data() on first use (cached via @st.cache_data).
+def _get_df() -> "pd.DataFrame":
+    from src.data import load_data
+    return load_data()
+
+st.session_state["netflix_df_provider"] = _get_df
+
 navigation.run()
